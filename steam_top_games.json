@@ -1,0 +1,1196 @@
+[
+    {
+        "game_url": "https://store.steampowered.com/app/730/CounterStrike_Global_Offensive/?snr=1_7_7_7000_150_1",
+        "img_url": "https://cdn.akamai.steamstatic.com/steam/apps/730/capsule_sm_120.jpg?t=1668125812",
+        "game_name": "Counter-Strike: Global Offensive",
+        "release_date": "21 Aug, 2012",
+        "platforms": [
+            "Windows",
+            "Mac OS",
+            "Linux"
+        ],
+        "reviews_summary": "Very Positive - 88% of the 6,948,858 user reviews for this game are positive.",
+        "original_price": "Free to Play"
+    },
+    {
+        "game_url": "https://store.steampowered.com/app/990080/Hogwarts_Legacy/?snr=1_7_7_7000_150_1",
+        "img_url": "https://cdn.akamai.steamstatic.com/steam/apps/990080/capsule_sm_120.jpg?t=1676412613",
+        "game_name": "Hogwarts Legacy",
+        "release_date": "10 Feb, 2023",
+        "platforms": [
+            "Windows"
+        ],
+        "reviews_summary": "Very Positive - 93% of the 99,578 user reviews for this game are positive.",
+        "original_price": "COL$ 189.999"
+    },
+    {
+        "game_url": "https://store.steampowered.com/app/1172470/Apex_Legends/?snr=1_7_7_7000_150_1",
+        "img_url": "https://cdn.akamai.steamstatic.com/steam/apps/1172470/capsule_sm_120.jpg?t=1676397745",
+        "game_name": "Apex Legends™",
+        "release_date": "4 Nov, 2020",
+        "platforms": [
+            "Windows"
+        ],
+        "reviews_summary": "Very Positive - 83% of the 599,003 user reviews for this game are positive.",
+        "original_price": "Free to Play"
+    },
+    {
+        "game_url": "https://store.steampowered.com/app/668580/Atomic_Heart/?snr=1_7_7_7000_150_1",
+        "img_url": "https://cdn.akamai.steamstatic.com/steam/apps/668580/capsule_sm_120.jpg?t=1676625403",
+        "game_name": "Atomic Heart",
+        "release_date": "20 Feb, 2023",
+        "platforms": [
+            "Windows"
+        ],
+        "original_price": "COL$ 199.900"
+    },
+    {
+        "game_url": "https://store.steampowered.com/app/1938090/Call_of_Duty_Modern_Warfare_II/?snr=1_7_7_7000_150_1",
+        "img_url": "https://cdn.akamai.steamstatic.com/steam/apps/1938090/capsule_sm_120.jpg?t=1676681202",
+        "game_name": "Call of Duty®: Modern Warfare® II",
+        "release_date": "27 Oct, 2022",
+        "platforms": [
+            "Windows"
+        ],
+        "reviews_summary": "Mixed - 62% of the 320,060 user reviews for this game are positive.",
+        "discount_rate": "35%",
+        "original_price": "COL$ 249.999",
+        "discounted_price": "COL$ 162.499"
+    },
+    {
+        "game_url": "https://store.steampowered.com/app/578080/PUBG_BATTLEGROUNDS/?snr=1_7_7_7000_150_1",
+        "img_url": "https://cdn.akamai.steamstatic.com/steam/apps/578080/capsule_sm_120.jpg?t=1673331963",
+        "game_name": "PUBG: BATTLEGROUNDS",
+        "release_date": "21 Dec, 2017",
+        "platforms": [
+            "Windows"
+        ],
+        "reviews_summary": "Mixed - 57% of the 2,144,019 user reviews for this game are positive.",
+        "original_price": "Free to Play"
+    },
+    {
+        "game_url": "https://store.steampowered.com/app/1085660/Destiny_2/?snr=1_7_7_7000_150_1",
+        "img_url": "https://cdn.akamai.steamstatic.com/steam/apps/1085660/capsule_sm_120.jpg?t=1671639469",
+        "game_name": "Destiny 2",
+        "release_date": "1 Oct, 2019",
+        "platforms": [
+            "Windows"
+        ],
+        "reviews_summary": "Very Positive - 83% of the 520,306 user reviews for this game are positive.",
+        "original_price": "Free To Play"
+    },
+    {
+        "game_url": "https://store.steampowered.com/app/397540/Borderlands_3/?snr=1_7_7_7000_150_1",
+        "img_url": "https://cdn.akamai.steamstatic.com/steam/apps/397540/capsule_sm_120.jpg?t=1657214217",
+        "game_name": "Borderlands 3",
+        "release_date": "13 Mar, 2020",
+        "platforms": [
+            "Windows"
+        ],
+        "reviews_summary": "Very Positive - 84% of the 86,650 user reviews for this game are positive.",
+        "discount_rate": "90%",
+        "original_price": "COL$ 169.900",
+        "discounted_price": "COL$ 16.990"
+    },
+    {
+        "game_url": "https://store.steampowered.com/app/1938010/WILD_HEARTS/?snr=1_7_7_7000_150_1",
+        "img_url": "https://cdn.akamai.steamstatic.com/steam/apps/1938010/capsule_sm_120.jpg?t=1676571541",
+        "game_name": "WILD HEARTS™",
+        "release_date": "16 Feb, 2023",
+        "platforms": [
+            "Windows"
+        ],
+        "reviews_summary": "Mixed - 44% of the 3,954 user reviews for this game are positive.",
+        "original_price": "COL$ 279.999"
+    },
+    {
+        "game_url": "https://store.steampowered.com/app/289070/Sid_Meiers_Civilization_VI/?snr=1_7_7_7000_150_1",
+        "img_url": "https://cdn.akamai.steamstatic.com/steam/apps/289070/capsule_sm_120.jpg?t=1676417504",
+        "game_name": "Sid Meier’s Civilization® VI",
+        "release_date": "20 Oct, 2016",
+        "platforms": [
+            "Windows",
+            "Mac OS",
+            "Linux"
+        ],
+        "reviews_summary": "Very Positive - 84% of the 182,941 user reviews for this game are positive.",
+        "discount_rate": "90%",
+        "original_price": "COL$ 219.000",
+        "discounted_price": "COL$ 21.900"
+    },
+    {
+        "game_url": "https://store.steampowered.com/app/1449850/YuGiOh_Master_Duel/?snr=1_7_7_7000_150_1",
+        "img_url": "https://cdn.akamai.steamstatic.com/steam/apps/1449850/capsule_sm_120.jpg?t=1676878640",
+        "game_name": "Yu-Gi-Oh! Master Duel",
+        "release_date": "18 Jan, 2022",
+        "platforms": [
+            "Windows"
+        ],
+        "reviews_summary": "Mostly Positive - 77% of the 56,336 user reviews for this game are positive.",
+        "original_price": "Free To Play"
+    },
+    {
+        "game_url": "https://store.steampowered.com/app/1599340/Lost_Ark/?snr=1_7_7_7000_150_1",
+        "img_url": "https://cdn.akamai.steamstatic.com/steam/apps/1599340/capsule_sm_120.jpg?t=1675876782",
+        "game_name": "Lost Ark",
+        "release_date": "11 Feb, 2022",
+        "platforms": [
+            "Windows"
+        ],
+        "reviews_summary": "Mostly Positive - 71% of the 189,538 user reviews for this game are positive.",
+        "original_price": "Free To Play"
+    },
+    {
+        "game_url": "https://store.steampowered.com/app/1203220/NARAKA_BLADEPOINT/?snr=1_7_7_7000_150_1",
+        "img_url": "https://cdn.akamai.steamstatic.com/steam/apps/1203220/capsule_sm_120.jpg?t=1676525536",
+        "game_name": "NARAKA: BLADEPOINT",
+        "release_date": "11 Aug, 2021",
+        "platforms": [
+            "Windows"
+        ],
+        "reviews_summary": "Mostly Positive - 77% of the 121,172 user reviews for this game are positive.This product has experienced one or more periods of off-topic review activity.  Based on your preferences, the reviews within these periods have been excluded from this product's Review Score.",
+        "discount_rate": "50%",
+        "original_price": "COL$ 79.999",
+        "discounted_price": "COL$ 39.999"
+    },
+    {
+        "game_url": "https://store.steampowered.com/app/236390/War_Thunder/?snr=1_7_7_7000_150_1",
+        "img_url": "https://cdn.akamai.steamstatic.com/steam/apps/236390/capsule_sm_120.jpg?t=1671733778",
+        "game_name": "War Thunder",
+        "release_date": "15 Aug, 2013",
+        "platforms": [
+            "Windows",
+            "Mac OS",
+            "Linux",
+            "VR Supported"
+        ],
+        "reviews_summary": "Mostly Positive - 78% of the 372,767 user reviews for this game are positive.",
+        "original_price": "Free to Play"
+    },
+    {
+        "game_url": "https://store.steampowered.com/app/368260/Marvels_Midnight_Suns/?snr=1_7_7_7000_150_1",
+        "img_url": "https://cdn.akamai.steamstatic.com/steam/apps/368260/capsule_sm_120.jpg?t=1676411311",
+        "game_name": "Marvel's Midnight Suns",
+        "release_date": "1 Dec, 2022",
+        "platforms": [
+            "Windows"
+        ],
+        "reviews_summary": "Mostly Positive - 79% of the 6,131 user reviews for this game are positive.",
+        "discount_rate": "40%",
+        "original_price": "COL$ 239.999",
+        "discounted_price": "COL$ 143.999"
+    },
+    {
+        "game_url": "https://store.steampowered.com/app/1811260/EA_SPORTS_FIFA_23/?snr=1_7_7_7000_150_1",
+        "img_url": "https://cdn.akamai.steamstatic.com/steam/apps/1811260/capsule_sm_120.jpg?t=1675351814",
+        "game_name": "EA SPORTS™ FIFA 23",
+        "release_date": "29 Sep, 2022",
+        "platforms": [
+            "Windows"
+        ],
+        "reviews_summary": "Mixed - 50% of the 68,069 user reviews for this game are positive.",
+        "original_price": "COL$ 279.999"
+    },
+    {
+        "game_url": "https://store.steampowered.com/app/1919590/NBA_2K23/?snr=1_7_7_7000_150_1",
+        "img_url": "https://cdn.akamai.steamstatic.com/steam/apps/1919590/capsule_sm_120.jpg?t=1673625785",
+        "game_name": "NBA 2K23",
+        "release_date": "8 Sep, 2022",
+        "platforms": [
+            "Windows"
+        ],
+        "reviews_summary": "Mixed - 62% of the 15,534 user reviews for this game are positive.",
+        "discount_rate": "70%",
+        "original_price": "COL$ 239.999",
+        "discounted_price": "COL$ 71.999"
+    },
+    {
+        "game_url": "https://store.steampowered.com/app/453480/Shadowverse_CCG/?snr=1_7_7_7000_150_1",
+        "img_url": "https://cdn.akamai.steamstatic.com/steam/apps/453480/capsule_sm_120.jpg?t=1672112841",
+        "game_name": "Shadowverse CCG",
+        "release_date": "27 Oct, 2016",
+        "platforms": [
+            "Windows",
+            "Mac OS"
+        ],
+        "reviews_summary": "Mostly Positive - 75% of the 13,584 user reviews for this game are positive.",
+        "original_price": "Free To Play"
+    },
+    {
+        "game_url": "https://store.steampowered.com/app/1805480/Like_a_Dragon_Ishin/?snr=1_7_7_7000_150_1",
+        "img_url": "https://cdn.akamai.steamstatic.com/steam/apps/1805480/capsule_sm_120.jpg?t=1676559739",
+        "game_name": "Like a Dragon: Ishin!",
+        "release_date": "21 Feb, 2023",
+        "platforms": [
+            "Windows"
+        ],
+        "original_price": "COL$ 140.900"
+    },
+    {
+        "game_url": "https://store.steampowered.com/app/1466860/Age_of_Empires_IV_Anniversary_Edition/?snr=1_7_7_7000_150_1",
+        "img_url": "https://cdn.akamai.steamstatic.com/steam/apps/1466860/capsule_sm_120.jpg?t=1675198657",
+        "game_name": "Age of Empires IV: Anniversary Edition",
+        "release_date": "28 Oct, 2021",
+        "platforms": [
+            "Windows"
+        ],
+        "reviews_summary": "Very Positive - 86% of the 35,112 user reviews for this game are positive.",
+        "discount_rate": "40%",
+        "original_price": "COL$ 82.500",
+        "discounted_price": "COL$ 49.500"
+    },
+    {
+        "game_url": "https://store.steampowered.com/app/1677280/Company_of_Heroes_3/?snr=1_7_7_7000_150_1",
+        "img_url": "https://cdn.akamai.steamstatic.com/steam/apps/1677280/capsule_sm_120.jpg?t=1676457727",
+        "game_name": "Company of Heroes 3",
+        "release_date": "23 Feb, 2023",
+        "platforms": [
+            "Windows"
+        ],
+        "original_price": "COL$ 182.900"
+    },
+    {
+        "game_url": "https://store.steampowered.com/app/1649240/Returnal/?snr=1_7_7_7000_150_1",
+        "img_url": "https://cdn.akamai.steamstatic.com/steam/apps/1649240/capsule_sm_120.jpg?t=1676476643",
+        "game_name": "Returnal™",
+        "release_date": "15 Feb, 2023",
+        "platforms": [
+            "Windows"
+        ],
+        "reviews_summary": "Very Positive - 81% of the 1,241 user reviews for this game are positive.",
+        "original_price": "COL$ 194.000"
+    },
+    {
+        "game_url": "https://store.steampowered.com/app/992300/_Bloody_Spell/?snr=1_7_7_7000_150_1",
+        "img_url": "https://cdn.akamai.steamstatic.com/steam/apps/992300/capsule_sm_120.jpg?t=1676728445",
+        "game_name": "嗜血印 Bloody Spell",
+        "release_date": "26 Jan, 2022",
+        "platforms": [
+            "Windows"
+        ],
+        "reviews_summary": "Very Positive - 88% of the 23,828 user reviews for this game are positive.",
+        "discount_rate": "75%",
+        "original_price": "COL$ 33.500",
+        "discounted_price": "COL$ 8.375"
+    },
+    {
+        "game_url": "https://store.steampowered.com/app/1245620/ELDEN_RING/?snr=1_7_7_7000_150_1",
+        "img_url": "https://cdn.akamai.steamstatic.com/steam/apps/1245620/capsule_sm_120.jpg?t=1674441703",
+        "game_name": "ELDEN RING",
+        "release_date": "24 Feb, 2022",
+        "platforms": [
+            "Windows"
+        ],
+        "reviews_summary": "Very Positive - 91% of the 482,856 user reviews for this game are positive.",
+        "original_price": "COL$ 207.000"
+    },
+    {
+        "game_url": "https://store.steampowered.com/app/208650/Batman_Arkham_Knight/?snr=1_7_7_7000_150_1",
+        "img_url": "https://cdn.akamai.steamstatic.com/steam/apps/208650/capsule_sm_120.jpg?t=1634156452",
+        "game_name": "Batman™: Arkham Knight",
+        "release_date": "23 Jun, 2015",
+        "platforms": [
+            "Windows"
+        ],
+        "reviews_summary": "Very Positive - 89% of the 61,706 user reviews for this game are positive.",
+        "discount_rate": "80%",
+        "original_price": "COL$ 64.999",
+        "discounted_price": "COL$ 12.999"
+    },
+    {
+        "game_url": "https://store.steampowered.com/app/359550/Tom_Clancys_Rainbow_Six_Siege/?snr=1_7_7_7000_150_1",
+        "img_url": "https://cdn.akamai.steamstatic.com/steam/apps/359550/capsule_sm_120.jpg?t=1675872814",
+        "game_name": "Tom Clancy's Rainbow Six® Siege",
+        "release_date": "1 Dec, 2015",
+        "platforms": [
+            "Windows"
+        ],
+        "reviews_summary": "Very Positive - 87% of the 940,568 user reviews for this game are positive.",
+        "original_price": "COL$ 59.900"
+    },
+    {
+        "game_url": "https://store.steampowered.com/app/230410/Warframe/?snr=1_7_7_7000_150_1",
+        "img_url": "https://cdn.akamai.steamstatic.com/steam/apps/230410/capsule_sm_120.jpg?t=1676495975",
+        "game_name": "Warframe",
+        "release_date": "25 Mar, 2013",
+        "platforms": [
+            "Windows"
+        ],
+        "reviews_summary": "Very Positive - 87% of the 521,718 user reviews for this game are positive.This product has experienced one or more periods of off-topic review activity.  Based on your preferences, the reviews within these periods have been excluded from this product's Review Score.",
+        "original_price": "Free to Play"
+    },
+    {
+        "game_url": "https://store.steampowered.com/app/271590/Grand_Theft_Auto_V/?snr=1_7_7_7000_150_1",
+        "img_url": "https://cdn.akamai.steamstatic.com/steam/apps/271590/capsule_sm_120.jpg?t=1671485100",
+        "game_name": "Grand Theft Auto V",
+        "release_date": "13 Apr, 2015",
+        "platforms": [
+            "Windows"
+        ],
+        "reviews_summary": "Very Positive - 85% of the 1,369,513 user reviews for this game are positive."
+    },
+    {
+        "game_url": "https://store.steampowered.com/app/252490/Rust/?snr=1_7_7_7000_150_1",
+        "img_url": "https://cdn.akamai.steamstatic.com/steam/apps/252490/capsule_sm_120.jpg?t=1671160999",
+        "game_name": "Rust",
+        "release_date": "8 Feb, 2018",
+        "platforms": [
+            "Windows",
+            "Mac OS"
+        ],
+        "reviews_summary": "Very Positive - 87% of the 723,879 user reviews for this game are positive.",
+        "original_price": "COL$ 84.500"
+    },
+    {
+        "game_url": "https://store.steampowered.com/app/924970/Back_4_Blood/?snr=1_7_7_7000_150_1",
+        "img_url": "https://cdn.akamai.steamstatic.com/steam/apps/924970/capsule_sm_120.jpg?t=1672856194",
+        "game_name": "Back 4 Blood",
+        "release_date": "12 Oct, 2021",
+        "platforms": [
+            "Windows"
+        ],
+        "reviews_summary": "Mixed - 66% of the 33,796 user reviews for this game are positive.",
+        "discount_rate": "75%",
+        "original_price": "COL$ 189.999",
+        "discounted_price": "COL$ 47.499"
+    },
+    {
+        "game_url": "https://store.steampowered.com/app/1448440/Wo_Long_Fallen_Dynasty/?snr=1_7_7_7000_150_1",
+        "img_url": "https://cdn.akamai.steamstatic.com/steam/apps/1448440/capsule_sm_120.jpg?t=1676249178",
+        "game_name": "Wo Long: Fallen Dynasty",
+        "release_date": "3 Mar, 2023",
+        "platforms": [
+            "Windows"
+        ],
+        "original_price": "COL$ 130.000"
+    },
+    {
+        "game_url": "https://store.steampowered.com/app/1693980/Dead_Space/?snr=1_7_7_7000_150_1",
+        "img_url": "https://cdn.akamai.steamstatic.com/steam/apps/1693980/capsule_sm_120.jpg?t=1676686259",
+        "game_name": "Dead Space",
+        "release_date": "27 Jan, 2023",
+        "platforms": [
+            "Windows"
+        ],
+        "reviews_summary": "Very Positive - 92% of the 18,981 user reviews for this game are positive.",
+        "original_price": "COL$ 234.999"
+    },
+    {
+        "game_url": "https://store.steampowered.com/app/1286680/Tiny_Tinas_Wonderlands/?snr=1_7_7_7000_150_1",
+        "img_url": "https://cdn.akamai.steamstatic.com/steam/apps/1286680/capsule_sm_120.jpg?t=1660273090",
+        "game_name": "Tiny Tina's Wonderlands",
+        "release_date": "23 Jun, 2022",
+        "platforms": [
+            "Windows"
+        ],
+        "reviews_summary": "Mostly Positive - 77% of the 7,000 user reviews for this game are positive.",
+        "discount_rate": "50%",
+        "original_price": "COL$ 228.000",
+        "discounted_price": "COL$ 114.000"
+    },
+    {
+        "game_url": "https://store.steampowered.com/app/306130/The_Elder_Scrolls_Online/?snr=1_7_7_7000_150_1",
+        "img_url": "https://cdn.akamai.steamstatic.com/steam/apps/306130/capsule_sm_120.jpg?t=1674679947",
+        "game_name": "The Elder Scrolls® Online",
+        "release_date": "22 May, 2017",
+        "platforms": [
+            "Windows",
+            "Mac OS"
+        ],
+        "reviews_summary": "Very Positive - 83% of the 107,871 user reviews for this game are positive.",
+        "original_price": "COL$ 49.900"
+    },
+    {
+        "game_url": "https://store.steampowered.com/app/239140/Dying_Light/?snr=1_7_7_7000_150_1",
+        "img_url": "https://cdn.akamai.steamstatic.com/steam/apps/239140/capsule_sm_120.jpg?t=1674129492",
+        "game_name": "Dying Light",
+        "release_date": "21 Apr, 2016",
+        "platforms": [
+            "Windows",
+            "Mac OS",
+            "Linux"
+        ],
+        "reviews_summary": "Overwhelmingly Positive - 95% of the 264,574 user reviews for this game are positive.This product has experienced one or more periods of off-topic review activity.  Based on your preferences, the reviews within these periods have been excluded from this product's Review Score.",
+        "discount_rate": "67%",
+        "original_price": "COL$ 48.000",
+        "discounted_price": "COL$ 15.840"
+    },
+    {
+        "game_url": "https://store.steampowered.com/app/381210/Dead_by_Daylight/?snr=1_7_7_7000_150_1",
+        "img_url": "https://cdn.akamai.steamstatic.com/steam/apps/381210/capsule_sm_120.jpg?t=1676500397",
+        "game_name": "Dead by Daylight",
+        "release_date": "14 Jun, 2016",
+        "platforms": [
+            "Windows"
+        ],
+        "reviews_summary": "Very Positive - 82% of the 462,271 user reviews for this game are positive.",
+        "original_price": "COL$ 44.900"
+    },
+    {
+        "game_url": "https://store.steampowered.com/app/108600/Project_Zomboid/?snr=1_7_7_7000_150_1",
+        "img_url": "https://cdn.akamai.steamstatic.com/steam/apps/108600/capsule_sm_120.jpg?t=1667832656",
+        "game_name": "Project Zomboid",
+        "release_date": "8 Nov, 2013",
+        "platforms": [
+            "Windows",
+            "Mac OS",
+            "Linux"
+        ],
+        "reviews_summary": "Very Positive - 93% of the 132,548 user reviews for this game are positive.",
+        "original_price": "COL$ 31.000"
+    },
+    {
+        "game_url": "https://store.steampowered.com/app/39210/FINAL_FANTASY_XIV_Online/?snr=1_7_7_7000_150_1",
+        "img_url": "https://cdn.akamai.steamstatic.com/steam/apps/39210/capsule_sm_120.jpg?t=1669805579",
+        "game_name": "FINAL FANTASY XIV Online",
+        "release_date": "18 Feb, 2014",
+        "platforms": [
+            "Windows"
+        ],
+        "reviews_summary": "Very Positive - 88% of the 58,508 user reviews for this game are positive.",
+        "original_price": "COL$ 49.600"
+    },
+    {
+        "game_url": "https://store.steampowered.com/app/431960/Wallpaper_Engine/?snr=1_7_7_7000_150_1",
+        "img_url": "https://cdn.akamai.steamstatic.com/steam/apps/431960/capsule_sm_120.jpg?t=1665921297",
+        "game_name": "Wallpaper Engine",
+        "release_date": "Nov 2018",
+        "platforms": [
+            "Windows"
+        ],
+        "reviews_summary": "Overwhelmingly Positive - 98% of the 573,537 user reviews for this software are positive.",
+        "original_price": "COL$ 9.900"
+    },
+    {
+        "game_url": "https://store.steampowered.com/app/1030840/Mafia_Definitive_Edition/?snr=1_7_7_7000_150_1",
+        "img_url": "https://cdn.akamai.steamstatic.com/steam/apps/1030840/capsule_sm_120.jpg?t=1632420251",
+        "game_name": "Mafia: Definitive Edition",
+        "release_date": "24 Sep, 2020",
+        "platforms": [
+            "Windows"
+        ],
+        "reviews_summary": "Very Positive - 86% of the 39,627 user reviews for this game are positive.",
+        "discount_rate": "65%",
+        "original_price": "COL$ 159.999",
+        "discounted_price": "COL$ 55.999"
+    },
+    {
+        "game_url": "https://store.steampowered.com/app/1904540/Football_Manager_2023/?snr=1_7_7_7000_150_1",
+        "img_url": "https://cdn.akamai.steamstatic.com/steam/apps/1904540/capsule_sm_120.jpg?t=1668082258",
+        "game_name": "Football Manager 2023",
+        "release_date": "7 Nov, 2022",
+        "platforms": [
+            "Windows",
+            "Mac OS"
+        ],
+        "reviews_summary": "Very Positive - 86% of the 6,539 user reviews for this game are positive.",
+        "original_price": "COL$ 179.000"
+    },
+    {
+        "game_url": "https://store.steampowered.com/app/570/Dota_2/?snr=1_7_7_7000_150_1",
+        "img_url": "https://cdn.akamai.steamstatic.com/steam/apps/570/capsule_sm_120.jpg?t=1675905833",
+        "game_name": "Dota 2",
+        "release_date": "9 Jul, 2013",
+        "platforms": [
+            "Windows",
+            "Mac OS",
+            "Linux"
+        ],
+        "reviews_summary": "Very Positive - 82% of the 1,931,897 user reviews for this game are positive.",
+        "original_price": "Free to Play"
+    },
+    {
+        "game_url": "https://store.steampowered.com/app/255710/Cities_Skylines/?snr=1_7_7_7000_150_1",
+        "img_url": "https://cdn.akamai.steamstatic.com/steam/apps/255710/capsule_sm_120.jpg?t=1670837127",
+        "game_name": "Cities: Skylines",
+        "release_date": "10 Mar, 2015",
+        "platforms": [
+            "Windows",
+            "Mac OS",
+            "Linux"
+        ],
+        "reviews_summary": "Very Positive - 93% of the 164,989 user reviews for this game are positive.",
+        "original_price": "COL$ 73.500"
+    },
+    {
+        "game_url": "https://store.steampowered.com/app/582660/Black_Desert/?snr=1_7_7_7000_150_1",
+        "img_url": "https://cdn.akamai.steamstatic.com/steam/apps/582660/capsule_sm_120.jpg?t=1674089807",
+        "game_name": "Black Desert",
+        "release_date": "15 Nov, 2017",
+        "platforms": [
+            "Windows"
+        ],
+        "reviews_summary": "Mostly Positive - 76% of the 45,866 user reviews for this game are positive.",
+        "original_price": "COL$ 17.899"
+    },
+    {
+        "game_url": "https://store.steampowered.com/app/489830/The_Elder_Scrolls_V_Skyrim_Special_Edition/?snr=1_7_7_7000_150_1",
+        "img_url": "https://cdn.akamai.steamstatic.com/steam/apps/489830/capsule_sm_120.jpg?t=1650909796",
+        "game_name": "The Elder Scrolls V: Skyrim Special Edition",
+        "release_date": "27 Oct, 2016",
+        "platforms": [
+            "Windows"
+        ],
+        "reviews_summary": "Very Positive - 94% of the 123,885 user reviews for this game are positive.",
+        "original_price": "COL$ 119.999"
+    },
+    {
+        "game_url": "https://store.steampowered.com/app/1351080/Pharaoh_A_New_Era/?snr=1_7_7_7000_150_1",
+        "img_url": "https://cdn.akamai.steamstatic.com/steam/apps/1351080/capsule_sm_120.jpg?t=1676473513",
+        "game_name": "Pharaoh: A New Era",
+        "release_date": "15 Feb, 2023",
+        "platforms": [
+            "Windows"
+        ],
+        "reviews_summary": "Mixed - 67% of the 1,166 user reviews for this game are positive.",
+        "discount_rate": "15%",
+        "original_price": "COL$ 54.099",
+        "discounted_price": "COL$ 45.984"
+    },
+    {
+        "game_url": "https://store.steampowered.com/app/1172620/Sea_of_Thieves/?snr=1_7_7_7000_150_1",
+        "img_url": "https://cdn.akamai.steamstatic.com/steam/apps/1172620/capsule_sm_120.jpg?t=1673489975",
+        "game_name": "Sea of Thieves",
+        "release_date": "3 Jun, 2020",
+        "platforms": [
+            "Windows"
+        ],
+        "reviews_summary": "Very Positive - 90% of the 230,610 user reviews for this game are positive.",
+        "original_price": "COL$ 54.500"
+    },
+    {
+        "game_url": "https://store.steampowered.com/app/1817230/HiFi_RUSH/?snr=1_7_7_7000_150_1",
+        "img_url": "https://cdn.akamai.steamstatic.com/steam/apps/1817230/capsule_sm_120.jpg?t=1675874328",
+        "game_name": "Hi-Fi RUSH",
+        "release_date": "25 Jan, 2023",
+        "platforms": [
+            "Windows"
+        ],
+        "reviews_summary": "Overwhelmingly Positive - 98% of the 9,897 user reviews for this game are positive.",
+        "original_price": "COL$ 119.900"
+    },
+    {
+        "game_url": "https://store.steampowered.com/app/440/Team_Fortress_2/?snr=1_7_7_7000_150_1",
+        "img_url": "https://cdn.akamai.steamstatic.com/steam/apps/440/capsule_sm_120.jpg?t=1665425286",
+        "game_name": "Team Fortress 2",
+        "release_date": "10 Oct, 2007",
+        "platforms": [
+            "Windows",
+            "Mac OS",
+            "Linux"
+        ],
+        "reviews_summary": "Very Positive - 93% of the 936,335 user reviews for this game are positive.",
+        "original_price": "Free to Play"
+    },
+    {
+        "game_url": "https://store.steampowered.com/app/518790/theHunter_Call_of_the_Wild/?snr=1_7_7_7000_150_1",
+        "img_url": "https://cdn.akamai.steamstatic.com/steam/apps/518790/capsule_sm_120.jpg?t=1670323161",
+        "game_name": "theHunter: Call of the Wild™",
+        "release_date": "16 Feb, 2017",
+        "platforms": [
+            "Windows"
+        ],
+        "reviews_summary": "Very Positive - 88% of the 105,790 user reviews for this game are positive.",
+        "discount_rate": "60%",
+        "original_price": "COL$ 31.000",
+        "discounted_price": "COL$ 12.400"
+    },
+    {
+        "game_url": "https://store.steampowered.com/app/1142710/Total_War_WARHAMMER_III/?snr=1_7_7_7000_150_2",
+        "img_url": "https://cdn.akamai.steamstatic.com/steam/apps/1142710/capsule_sm_120.jpg?t=1676657858",
+        "game_name": "Total War: WARHAMMER III",
+        "release_date": "17 Feb, 2022",
+        "platforms": [
+            "Windows",
+            "Mac OS",
+            "Linux"
+        ],
+        "reviews_summary": "Mostly Positive - 73% of the 45,949 user reviews for this game are positive.",
+        "original_price": "COL$ 159.950"
+    },
+    {
+        "game_url": "https://store.steampowered.com/app/1446780/MONSTER_HUNTER_RISE/?snr=1_7_7_7000_150_2",
+        "img_url": "https://cdn.akamai.steamstatic.com/steam/apps/1446780/capsule_sm_120.jpg?t=1676591520",
+        "game_name": "MONSTER HUNTER RISE",
+        "release_date": "12 Jan, 2022",
+        "platforms": [
+            "Windows"
+        ],
+        "reviews_summary": "Very Positive - 86% of the 42,964 user reviews for this game are positive.",
+        "original_price": "COL$ 112.000"
+    },
+    {
+        "game_url": "https://store.steampowered.com/app/1496790/Gotham_Knights/?snr=1_7_7_7000_150_2",
+        "img_url": "https://cdn.akamai.steamstatic.com/steam/apps/1496790/capsule_sm_120.jpg?t=1669857306",
+        "game_name": "Gotham Knights",
+        "release_date": "21 Oct, 2022",
+        "platforms": [
+            "Windows"
+        ],
+        "reviews_summary": "Mixed - 69% of the 9,422 user reviews for this game are positive.",
+        "discount_rate": "55%",
+        "original_price": "COL$ 189.999",
+        "discounted_price": "COL$ 85.499"
+    },
+    {
+        "game_url": "https://store.steampowered.com/app/548430/Deep_Rock_Galactic/?snr=1_7_7_7000_150_2",
+        "img_url": "https://cdn.akamai.steamstatic.com/steam/apps/548430/capsule_sm_120.jpg?t=1676273441",
+        "game_name": "Deep Rock Galactic",
+        "release_date": "13 May, 2020",
+        "platforms": [
+            "Windows"
+        ],
+        "reviews_summary": "Overwhelmingly Positive - 97% of the 149,787 user reviews for this game are positive.",
+        "original_price": "COL$ 39.500"
+    },
+    {
+        "game_url": "https://store.steampowered.com/app/413150/Stardew_Valley/?snr=1_7_7_7000_150_2",
+        "img_url": "https://cdn.akamai.steamstatic.com/steam/apps/413150/capsule_sm_120.jpg?t=1666917466",
+        "game_name": "Stardew Valley",
+        "release_date": "26 Feb, 2016",
+        "platforms": [
+            "Windows",
+            "Mac OS",
+            "Linux"
+        ],
+        "reviews_summary": "Overwhelmingly Positive - 98% of the 458,397 user reviews for this game are positive.",
+        "original_price": "COL$ 32.000"
+    },
+    {
+        "game_url": "https://store.steampowered.com/app/2064650/Tower_of_Fantasy/?snr=1_7_7_7000_150_2",
+        "img_url": "https://cdn.akamai.steamstatic.com/steam/apps/2064650/capsule_sm_120.jpg?t=1676000253",
+        "game_name": "Tower of Fantasy",
+        "release_date": "20 Oct, 2022",
+        "platforms": [
+            "Windows"
+        ],
+        "reviews_summary": "Mostly Positive - 73% of the 5,869 user reviews for this game are positive.",
+        "original_price": "Free To Play"
+    },
+    {
+        "game_url": "https://store.steampowered.com/app/1222670/The_Sims_4/?snr=1_7_7_7000_150_2",
+        "img_url": "https://cdn.akamai.steamstatic.com/steam/apps/1222670/capsule_sm_120.jpg?t=1675860083",
+        "game_name": "The Sims™ 4",
+        "release_date": "18 Jun, 2020",
+        "platforms": [
+            "Windows"
+        ],
+        "reviews_summary": "Very Positive - 86% of the 88,074 user reviews for this game are positive.",
+        "original_price": "Free To Play"
+    },
+    {
+        "game_url": "https://store.steampowered.com/app/739630/Phasmophobia/?snr=1_7_7_7000_150_2",
+        "img_url": "https://cdn.akamai.steamstatic.com/steam/apps/739630/capsule_sm_120.jpg?t=1674232976",
+        "game_name": "Phasmophobia",
+        "release_date": "18 Sep, 2020",
+        "platforms": [
+            "Windows",
+            "VR Supported"
+        ],
+        "reviews_summary": "Overwhelmingly Positive - 97% of the 431,835 user reviews for this game are positive.",
+        "original_price": "COL$ 24.000"
+    },
+    {
+        "game_url": "https://store.steampowered.com/app/648800/Raft/?snr=1_7_7_7000_150_2",
+        "img_url": "https://cdn.akamai.steamstatic.com/steam/apps/648800/capsule_sm_120.jpg?t=1655744208",
+        "game_name": "Raft",
+        "release_date": "20 Jun, 2022",
+        "platforms": [
+            "Windows"
+        ],
+        "reviews_summary": "Very Positive - 93% of the 219,009 user reviews for this game are positive.",
+        "original_price": "COL$ 40.000"
+    },
+    {
+        "game_url": "https://store.steampowered.com/app/1551360/Forza_Horizon_5/?snr=1_7_7_7000_150_2",
+        "img_url": "https://cdn.akamai.steamstatic.com/steam/apps/1551360/capsule_sm_120.jpg?t=1673029404",
+        "game_name": "Forza Horizon 5",
+        "release_date": "8 Nov, 2021",
+        "platforms": [
+            "Windows"
+        ],
+        "reviews_summary": "Very Positive - 88% of the 98,388 user reviews for this game are positive.",
+        "original_price": "COL$ 214.900"
+    },
+    {
+        "game_url": "https://store.steampowered.com/app/1201540/HELLCARD/?snr=1_7_7_7000_150_2",
+        "img_url": "https://cdn.akamai.steamstatic.com/steam/apps/1201540/capsule_sm_120.jpg?t=1676835644",
+        "game_name": "HELLCARD",
+        "release_date": "16 Feb, 2023",
+        "platforms": [
+            "Windows"
+        ],
+        "reviews_summary": "Very Positive - 88% of the 300 user reviews for this game are positive.",
+        "discount_rate": "10%",
+        "original_price": "COL$ 31.000",
+        "discounted_price": "COL$ 27.900"
+    },
+    {
+        "game_url": "https://store.steampowered.com/app/552990/World_of_Warships/?snr=1_7_7_7000_150_2",
+        "img_url": "https://cdn.akamai.steamstatic.com/steam/apps/552990/capsule_sm_120_alt_assets_0.jpg?t=1676622083",
+        "game_name": "World of Warships",
+        "release_date": "15 Nov, 2017",
+        "platforms": [
+            "Windows"
+        ],
+        "reviews_summary": "Very Positive - 80% of the 116,982 user reviews for this game are positive.",
+        "original_price": "Free to Play"
+    },
+    {
+        "game_url": "https://store.steampowered.com/app/1016950/Blood_Bowl_3/?snr=1_7_7_7000_150_2",
+        "img_url": "https://cdn.akamai.steamstatic.com/steam/apps/1016950/capsule_sm_120.jpg?t=1676887679",
+        "game_name": "Blood Bowl 3",
+        "release_date": "23 Feb, 2023",
+        "platforms": [
+            "Windows"
+        ],
+        "original_price": "COL$ 75.000"
+    },
+    {
+        "game_url": "https://store.steampowered.com/app/1971650/OCTOPATH_TRAVELER_II/?snr=1_7_7_7000_150_2",
+        "img_url": "https://cdn.akamai.steamstatic.com/steam/apps/1971650/capsule_sm_120.jpg?t=1676368203",
+        "game_name": "OCTOPATH TRAVELER II",
+        "release_date": "24 Feb, 2023",
+        "platforms": [
+            "Windows"
+        ],
+        "original_price": "COL$ 262.900"
+    },
+    {
+        "game_url": "https://store.steampowered.com/app/294100/RimWorld/?snr=1_7_7_7000_150_2",
+        "img_url": "https://cdn.akamai.steamstatic.com/steam/apps/294100/capsule_sm_120.jpg?t=1676391313",
+        "game_name": "RimWorld",
+        "release_date": "17 Oct, 2018",
+        "platforms": [
+            "Windows",
+            "Mac OS",
+            "Linux"
+        ],
+        "reviews_summary": "Overwhelmingly Positive - 98% of the 130,770 user reviews for this game are positive.",
+        "original_price": "COL$ 65.000"
+    },
+    {
+        "game_url": "https://store.steampowered.com/app/268500/XCOM_2/?snr=1_7_7_7000_150_2",
+        "img_url": "https://cdn.akamai.steamstatic.com/steam/apps/268500/capsule_sm_120.jpg?t=1646157374",
+        "game_name": "XCOM® 2",
+        "release_date": "5 Feb, 2016",
+        "platforms": [
+            "Windows",
+            "Mac OS",
+            "Linux"
+        ],
+        "reviews_summary": "Very Positive - 84% of the 61,218 user reviews for this game are positive.",
+        "discount_rate": "90%",
+        "original_price": "COL$ 109.000",
+        "discounted_price": "COL$ 10.900"
+    },
+    {
+        "game_url": "https://store.steampowered.com/app/1144200/Ready_or_Not/?snr=1_7_7_7000_150_2",
+        "img_url": "https://cdn.akamai.steamstatic.com/steam/apps/1144200/capsule_sm_120.jpg?t=1672853208",
+        "game_name": "Ready or Not",
+        "release_date": "17 Dec, 2021",
+        "platforms": [
+            "Windows"
+        ],
+        "reviews_summary": "Very Positive - 92% of the 79,291 user reviews for this game are positive.",
+        "original_price": "COL$ 56.900"
+    },
+    {
+        "game_url": "https://store.steampowered.com/app/976310/Mortal_Kombat11/?snr=1_7_7_7000_150_2",
+        "img_url": "https://cdn.akamai.steamstatic.com/steam/apps/976310/capsule_sm_120.jpg?t=1654216426",
+        "game_name": "Mortal Kombat 11",
+        "release_date": "23 Apr, 2019",
+        "platforms": [
+            "Windows"
+        ],
+        "reviews_summary": "Very Positive - 87% of the 53,820 user reviews for this game are positive.",
+        "discount_rate": "80%",
+        "original_price": "COL$ 143.999",
+        "discounted_price": "COL$ 28.799"
+    },
+    {
+        "game_url": "https://store.steampowered.com/app/1286830/STAR_WARS_The_Old_Republic/?snr=1_7_7_7000_150_2",
+        "img_url": "https://cdn.akamai.steamstatic.com/steam/apps/1286830/capsule_sm_120.jpg?t=1645090351",
+        "game_name": "STAR WARS™: The Old Republic™",
+        "release_date": "21 Jul, 2020",
+        "platforms": [
+            "Windows"
+        ],
+        "reviews_summary": "Very Positive - 89% of the 49,343 user reviews for this game are positive.",
+        "original_price": "Free To Play"
+    },
+    {
+        "game_url": "https://store.steampowered.com/app/1945340/Destiny_2_Lightfall/?snr=1_7_7_7000_150_2",
+        "img_url": "https://cdn.akamai.steamstatic.com/steam/apps/1945340/capsule_sm_120.jpg?t=1676584076",
+        "game_name": "Destiny 2: Lightfall",
+        "release_date": "28 Feb, 2023",
+        "platforms": [
+            "Windows"
+        ],
+        "reviews_summary": "Positive - 95% of the 22 user reviews for this game are positive.",
+        "original_price": "COL$ 66.999"
+    },
+    {
+        "game_url": "https://store.steampowered.com/app/1248130/Farming_Simulator_22/?snr=1_7_7_7000_150_2",
+        "img_url": "https://cdn.akamai.steamstatic.com/steam/apps/1248130/capsule_sm_120.jpg?t=1669368238",
+        "game_name": "Farming Simulator 22",
+        "release_date": "22 Nov, 2021",
+        "platforms": [
+            "Windows",
+            "Mac OS"
+        ],
+        "reviews_summary": "Very Positive - 90% of the 31,160 user reviews for this game are positive.",
+        "original_price": "COL$ 119.999"
+    },
+    {
+        "game_url": "https://store.steampowered.com/app/1174180/Red_Dead_Redemption_2/?snr=1_7_7_7000_150_2",
+        "img_url": "https://cdn.akamai.steamstatic.com/steam/apps/1174180/capsule_sm_120.jpg?t=1671485009",
+        "game_name": "Red Dead Redemption 2",
+        "release_date": "5 Dec, 2019",
+        "platforms": [
+            "Windows"
+        ],
+        "reviews_summary": "Very Positive - 89% of the 339,270 user reviews for this game are positive.",
+        "original_price": "COL$ 199.900"
+    },
+    {
+        "game_url": "https://store.steampowered.com/app/1250410/Microsoft_Flight_Simulator_40th_Anniversary_Edition/?snr=1_7_7_7000_150_2",
+        "img_url": "https://cdn.akamai.steamstatic.com/steam/apps/1250410/capsule_sm_120.jpg?t=1668186331",
+        "game_name": "Microsoft Flight Simulator 40th Anniversary Edition",
+        "release_date": "18 Aug, 2020",
+        "platforms": [
+            "Windows",
+            "VR Supported"
+        ],
+        "reviews_summary": "Mostly Positive - 78% of the 42,932 user reviews for this game are positive.",
+        "original_price": "COL$ 249.900"
+    },
+    {
+        "game_url": "https://store.steampowered.com/app/2231450/Pizza_Tower/?snr=1_7_7_7000_150_2",
+        "img_url": "https://cdn.akamai.steamstatic.com/steam/apps/2231450/capsule_sm_120.jpg?t=1674756021",
+        "game_name": "Pizza Tower",
+        "release_date": "26 Jan, 2023",
+        "platforms": [
+            "Windows"
+        ],
+        "reviews_summary": "Overwhelmingly Positive - 99% of the 5,442 user reviews for this game are positive.",
+        "original_price": "COL$ 47.500"
+    },
+    {
+        "game_url": "https://store.steampowered.com/app/1782120/ZERO_Sievert/?snr=1_7_7_7000_150_2",
+        "img_url": "https://cdn.akamai.steamstatic.com/steam/apps/1782120/capsule_sm_120.jpg?t=1674056428",
+        "game_name": "ZERO Sievert",
+        "release_date": "15 Nov, 2022",
+        "platforms": [
+            "Windows"
+        ],
+        "reviews_summary": "Very Positive - 91% of the 5,534 user reviews for this game are positive.",
+        "discount_rate": "20%",
+        "original_price": "COL$ 47.500",
+        "discounted_price": "COL$ 38.000"
+    },
+    {
+        "game_url": "https://store.steampowered.com/app/2050650/Resident_Evil_4/?snr=1_7_7_7000_150_2",
+        "img_url": "https://cdn.akamai.steamstatic.com/steam/apps/2050650/capsule_sm_120.jpg?t=1676336907",
+        "game_name": "Resident Evil 4",
+        "release_date": "23 Mar, 2023",
+        "platforms": [
+            "Windows"
+        ],
+        "original_price": "COL$ 159.000"
+    },
+    {
+        "game_url": "https://store.steampowered.com/app/242760/The_Forest/?snr=1_7_7_7000_150_2",
+        "img_url": "https://cdn.akamai.steamstatic.com/steam/apps/242760/capsule_sm_120.jpg?t=1666811027",
+        "game_name": "The Forest",
+        "release_date": "30 Apr, 2018",
+        "platforms": [
+            "Windows",
+            "VR Supported"
+        ],
+        "reviews_summary": "Overwhelmingly Positive - 95% of the 391,228 user reviews for this game are positive.",
+        "original_price": "COL$ 31.000"
+    },
+    {
+        "game_url": "https://store.steampowered.com/app/346110/ARK_Survival_Evolved/?snr=1_7_7_7000_150_2",
+        "img_url": "https://cdn.akamai.steamstatic.com/steam/apps/346110/capsule_sm_120.jpg?t=1669254188",
+        "game_name": "ARK: Survival Evolved",
+        "release_date": "27 Aug, 2017",
+        "platforms": [
+            "Windows",
+            "Mac OS"
+        ],
+        "reviews_summary": "Very Positive - 83% of the 466,218 user reviews for this game are positive.",
+        "original_price": "COL$ 31.000"
+    },
+    {
+        "game_url": "https://store.steampowered.com/app/1888930/The_Last_of_Us_Part_I/?snr=1_7_7_7000_150_2",
+        "img_url": "https://cdn.akamai.steamstatic.com/steam/apps/1888930/capsule_sm_120.jpg?t=1676314660",
+        "game_name": "The Last of Us™ Part I",
+        "release_date": "28 Mar, 2023",
+        "platforms": [
+            "Windows"
+        ],
+        "original_price": "COL$ 194.000"
+    },
+    {
+        "game_url": "https://store.steampowered.com/app/892970/Valheim/?snr=1_7_7_7000_150_2",
+        "img_url": "https://cdn.akamai.steamstatic.com/steam/apps/892970/capsule_sm_120.jpg?t=1676365340",
+        "game_name": "Valheim",
+        "release_date": "2 Feb, 2021",
+        "platforms": [
+            "Windows",
+            "Linux"
+        ],
+        "reviews_summary": "Overwhelmingly Positive - 95% of the 337,381 user reviews for this game are positive.",
+        "original_price": "COL$ 31.000"
+    },
+    {
+        "game_url": "https://store.steampowered.com/app/1527950/Wartales/?snr=1_7_7_7000_150_2",
+        "img_url": "https://cdn.akamai.steamstatic.com/steam/apps/1527950/capsule_sm_120.jpg?t=1676555642",
+        "game_name": "Wartales",
+        "release_date": "1 Dec, 2021",
+        "platforms": [
+            "Windows"
+        ],
+        "reviews_summary": "Very Positive - 90% of the 8,693 user reviews for this game are positive.",
+        "discount_rate": "20%",
+        "original_price": "COL$ 102.000",
+        "discounted_price": "COL$ 81.600"
+    },
+    {
+        "game_url": "https://store.steampowered.com/app/627270/Injustice_2/?snr=1_7_7_7000_150_2",
+        "img_url": "https://cdn.akamai.steamstatic.com/steam/apps/627270/capsule_sm_120.jpg?t=1573860511",
+        "game_name": "Injustice™ 2",
+        "release_date": "30 Nov, 2017",
+        "platforms": [
+            "Windows"
+        ],
+        "reviews_summary": "Very Positive - 86% of the 11,363 user reviews for this game are positive.",
+        "discount_rate": "90%",
+        "original_price": "COL$ 143.999",
+        "discounted_price": "COL$ 14.399"
+    },
+    {
+        "game_url": "https://store.steampowered.com/app/1217060/Gunfire_Reborn/?snr=1_7_7_7000_150_2",
+        "img_url": "https://cdn.akamai.steamstatic.com/steam/apps/1217060/capsule_sm_120.jpg?t=1674888345",
+        "game_name": "Gunfire Reborn",
+        "release_date": "17 Nov, 2021",
+        "platforms": [
+            "Windows"
+        ],
+        "reviews_summary": "Very Positive - 93% of the 71,955 user reviews for this game are positive.",
+        "discount_rate": "30%",
+        "original_price": "COL$ 46.999",
+        "discounted_price": "COL$ 32.899"
+    },
+    {
+        "game_url": "https://store.steampowered.com/app/1449200/AI_THE_SOMNIUM_FILES__nirvanA_Initiative/?snr=1_7_7_7000_150_2",
+        "img_url": "https://cdn.akamai.steamstatic.com/steam/apps/1449200/capsule_sm_120.jpg?t=1656919218",
+        "game_name": "AI: THE SOMNIUM FILES - nirvanA Initiative",
+        "release_date": "24 Jun, 2022",
+        "platforms": [
+            "Windows"
+        ],
+        "reviews_summary": "Very Positive - 89% of the 1,693 user reviews for this game are positive.",
+        "discount_rate": "50%",
+        "original_price": "COL$ 138.912",
+        "discounted_price": "COL$ 69.456"
+    },
+    {
+        "game_url": "https://store.steampowered.com/app/227300/Euro_Truck_Simulator_2/?snr=1_7_7_7000_150_2",
+        "img_url": "https://cdn.akamai.steamstatic.com/steam/apps/227300/capsule_sm_120.jpg?t=1676467132",
+        "game_name": "Euro Truck Simulator 2",
+        "release_date": "12 Oct, 2012",
+        "platforms": [
+            "Windows",
+            "Mac OS",
+            "Linux"
+        ],
+        "reviews_summary": "Overwhelmingly Positive - 97% of the 448,328 user reviews for this game are positive.This product has experienced one or more periods of off-topic review activity.  Based on your preferences, the reviews within these periods have been excluded from this product's Review Score.",
+        "original_price": "COL$ 42.000"
+    },
+    {
+        "game_url": "https://store.steampowered.com/app/284160/BeamNGdrive/?snr=1_7_7_7000_150_2",
+        "img_url": "https://cdn.akamai.steamstatic.com/steam/apps/284160/capsule_sm_120.jpg?t=1670937192",
+        "game_name": "BeamNG.drive",
+        "release_date": "29 May, 2015",
+        "platforms": [
+            "Windows"
+        ],
+        "reviews_summary": "Overwhelmingly Positive - 97% of the 148,627 user reviews for this game are positive.",
+        "original_price": "COL$ 33.500"
+    },
+    {
+        "game_url": "https://store.steampowered.com/app/1086940/Baldurs_Gate_3/?snr=1_7_7_7000_150_2",
+        "img_url": "https://cdn.akamai.steamstatic.com/steam/apps/1086940/capsule_sm_120.jpg?t=1675169102",
+        "game_name": "Baldur's Gate 3",
+        "release_date": "6 Oct, 2020",
+        "platforms": [
+            "Windows",
+            "Mac OS"
+        ],
+        "reviews_summary": "Very Positive - 87% of the 52,175 user reviews for this game are positive.",
+        "original_price": "COL$ 199.000"
+    },
+    {
+        "game_url": "https://store.steampowered.com/app/311210/Call_of_Duty_Black_Ops_III/?snr=1_7_7_7000_150_2",
+        "img_url": "https://cdn.akamai.steamstatic.com/steam/apps/311210/capsule_sm_120.jpg?t=1646763462",
+        "game_name": "Call of Duty®: Black Ops III",
+        "release_date": "6 Nov, 2015",
+        "platforms": [
+            "Windows",
+            "Mac OS"
+        ],
+        "reviews_summary": "Very Positive - 85% of the 91,891 user reviews for this game are positive.",
+        "original_price": "COL$ 219.900"
+    },
+    {
+        "game_url": "https://store.steampowered.com/app/444200/World_of_Tanks_Blitz/?snr=1_7_7_7000_150_2",
+        "img_url": "https://cdn.akamai.steamstatic.com/steam/apps/444200/capsule_sm_120_alt_assets_0.jpg?t=1676566832",
+        "game_name": "World of Tanks Blitz",
+        "release_date": "9 Nov, 2016",
+        "platforms": [
+            "Windows",
+            "Mac OS"
+        ],
+        "reviews_summary": "Very Positive - 80% of the 125,639 user reviews for this game are positive.",
+        "original_price": "Free to Play"
+    },
+    {
+        "game_url": "https://store.steampowered.com/app/1943950/Escape_the_Backrooms/?snr=1_7_7_7000_150_2",
+        "img_url": "https://cdn.akamai.steamstatic.com/steam/apps/1943950/capsule_sm_120.jpg?t=1674180275",
+        "game_name": "Escape the Backrooms",
+        "release_date": "11 Aug, 2022",
+        "platforms": [
+            "Windows"
+        ],
+        "reviews_summary": "Very Positive - 86% of the 9,536 user reviews for this game are positive.",
+        "original_price": "COL$ 18.500"
+    },
+    {
+        "game_url": "https://store.steampowered.com/app/1657630/Slime_Rancher_2/?snr=1_7_7_7000_150_2",
+        "img_url": "https://cdn.akamai.steamstatic.com/steam/apps/1657630/capsule_sm_120_alt_assets_0.jpg?t=1676659435",
+        "game_name": "Slime Rancher 2",
+        "release_date": "22 Sep, 2022",
+        "platforms": [
+            "Windows"
+        ],
+        "reviews_summary": "Overwhelmingly Positive - 95% of the 15,989 user reviews for this game are positive.",
+        "discount_rate": "20%",
+        "original_price": "COL$ 39.500",
+        "discounted_price": "COL$ 31.600"
+    },
+    {
+        "game_url": "https://store.steampowered.com/app/105600/Terraria/?snr=1_7_7_7000_150_2",
+        "img_url": "https://cdn.akamai.steamstatic.com/steam/apps/105600/capsule_sm_120.jpg?t=1666290860",
+        "game_name": "Terraria",
+        "release_date": "16 May, 2011",
+        "platforms": [
+            "Windows",
+            "Mac OS",
+            "Linux"
+        ],
+        "reviews_summary": "Overwhelmingly Positive - 97% of the 868,367 user reviews for this game are positive.",
+        "original_price": "COL$ 23.500"
+    },
+    {
+        "game_url": "https://store.steampowered.com/app/1255630/WWE_2K22/?snr=1_7_7_7000_150_2",
+        "img_url": "https://cdn.akamai.steamstatic.com/steam/apps/1255630/capsule_sm_120.jpg?t=1674776387",
+        "game_name": "WWE 2K22",
+        "release_date": "10 Mar, 2022",
+        "platforms": [
+            "Windows"
+        ],
+        "reviews_summary": "Mostly Positive - 73% of the 6,799 user reviews for this game are positive.",
+        "discount_rate": "75%",
+        "original_price": "COL$ 219.900",
+        "discounted_price": "COL$ 54.975"
+    },
+    {
+        "game_url": "https://store.steampowered.com/app/1942280/Brotato/?snr=1_7_7_7000_150_2",
+        "img_url": "https://cdn.akamai.steamstatic.com/steam/apps/1942280/capsule_sm_120.jpg?t=1673173938",
+        "game_name": "Brotato",
+        "release_date": "27 Sep, 2022",
+        "platforms": [
+            "Windows"
+        ],
+        "reviews_summary": "Overwhelmingly Positive - 97% of the 25,685 user reviews for this game are positive.",
+        "discount_rate": "20%",
+        "original_price": "COL$ 9.900",
+        "discounted_price": "COL$ 7.920"
+    },
+    {
+        "game_url": "https://store.steampowered.com/app/238960/Path_of_Exile/?snr=1_7_7_7000_150_2",
+        "img_url": "https://cdn.akamai.steamstatic.com/steam/apps/238960/capsule_sm_120.jpg?t=1675895226",
+        "game_name": "Path of Exile",
+        "release_date": "23 Oct, 2013",
+        "platforms": [
+            "Windows",
+            "Mac OS"
+        ],
+        "reviews_summary": "Very Positive - 87% of the 196,595 user reviews for this game are positive.",
+        "original_price": "Free to Play"
+    },
+    {
+        "game_url": "https://store.steampowered.com/app/1330000/Stolen_Realm/?snr=1_7_7_7000_150_2",
+        "img_url": "https://cdn.akamai.steamstatic.com/steam/apps/1330000/capsule_sm_120.jpg?t=1675952962",
+        "game_name": "Stolen Realm",
+        "release_date": "14 Oct, 2021",
+        "platforms": [
+            "Windows",
+            "Mac OS"
+        ],
+        "reviews_summary": "Very Positive - 91% of the 1,146 user reviews for this game are positive.",
+        "discount_rate": "30%",
+        "original_price": "COL$ 31.000",
+        "discounted_price": "COL$ 21.700"
+    },
+    {
+        "game_url": "https://store.steampowered.com/app/281990/Stellaris/?snr=1_7_7_7000_150_2",
+        "img_url": "https://cdn.akamai.steamstatic.com/steam/apps/281990/capsule_sm_120.jpg?t=1671717387",
+        "game_name": "Stellaris",
+        "release_date": "9 May, 2016",
+        "platforms": [
+            "Windows",
+            "Mac OS",
+            "Linux"
+        ],
+        "reviews_summary": "Very Positive - 88% of the 101,135 user reviews for this game are positive.",
+        "original_price": "COL$ 86.000"
+    },
+    {
+        "game_url": "https://store.steampowered.com/app/1659040/HITMAN_3/?snr=1_7_7_7000_150_2",
+        "img_url": "https://cdn.akamai.steamstatic.com/steam/apps/1659040/capsule_sm_120.jpg?t=1676460547",
+        "game_name": "HITMAN 3",
+        "release_date": "20 Jan, 2022",
+        "platforms": [
+            "Windows",
+            "VR Supported"
+        ],
+        "reviews_summary": "Very Positive - 82% of the 10,101 user reviews for this game are positive.",
+        "original_price": "COL$ 150.000"
+    },
+    {
+        "game_url": "https://store.steampowered.com/app/594650/Hunt_Showdown/?snr=1_7_7_7000_150_2",
+        "img_url": "https://cdn.akamai.steamstatic.com/steam/apps/594650/capsule_sm_120.jpg?t=1676019033",
+        "game_name": "Hunt: Showdown",
+        "release_date": "27 Aug, 2019",
+        "platforms": [
+            "Windows"
+        ],
+        "reviews_summary": "Very Positive - 83% of the 120,558 user reviews for this game are positive.",
+        "original_price": "COL$ 79.000"
+    },
+    {
+        "game_url": "https://store.steampowered.com/app/1284210/Guild_Wars_2/?snr=1_7_7_7000_150_2",
+        "img_url": "https://cdn.akamai.steamstatic.com/steam/apps/1284210/capsule_sm_120.jpg?t=1671734300",
+        "game_name": "Guild Wars 2",
+        "release_date": "23 Aug, 2022",
+        "platforms": [
+            "Windows"
+        ],
+        "reviews_summary": "Very Positive - 89% of the 7,642 user reviews for this game are positive.",
+        "original_price": "Free To Play"
+    }
+]
