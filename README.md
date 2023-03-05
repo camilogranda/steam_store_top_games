@@ -12,4 +12,4 @@ Web scraper using scrapy-playwright to fetch top 100 sellers games of Steam. Als
   * On "web" folfer execute: python app.py
   * Put in the browser: http://127.0.0.1:5000
 
-https://raw.camilogranda/steam_store_top_games/stem-top-100-games.png
+(https://raw.camilogranda/steam_store_top_games/stem-top-100-games.png)
