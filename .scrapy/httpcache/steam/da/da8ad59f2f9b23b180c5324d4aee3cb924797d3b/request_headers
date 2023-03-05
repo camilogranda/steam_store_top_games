@@ -1,0 +1,7 @@
+Accept: */*
+Origin: https://store.steampowered.com
+Referer: https://store.akamai.steamstatic.com/public/shared/css/motiva_sans.css?v=Rc2hpzg2Ex3T&l=english
+User-Agent: Scrapy/2.6.3 (+https://scrapy.org)
+Sec-Ch-Ua: 
+Sec-Ch-Ua-Mobile: ?0
+Sec-Ch-Ua-Platform: 

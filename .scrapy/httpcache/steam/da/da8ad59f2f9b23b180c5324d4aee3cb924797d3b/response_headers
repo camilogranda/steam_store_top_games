@@ -1,0 +1,14 @@
+Cache-Control: no-cache
+Connection: keep-alive, Transfer-Encoding
+Content-Security-Policy: default-src blob: data: https: 'unsafe-inline' 'unsafe-eval'; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://store.akamai.steamstatic.com/ https://store.akamai.steamstatic.com/ *.google-analytics.com https://www.gstatic.com https://recaptcha.net https://www.gstatic.cn/recaptcha/ https://www.youtube.com/ https://s.ytimg.com; object-src 'none'; connect-src 'self' http://store.steampowered.com https://store.steampowered.com http://127.0.0.1:27060 ws://127.0.0.1:27060 https://community.akamai.steamstatic.com/ https://steamcommunity.com/ https://steamcommunity.com/ wss://community.steam-api.com/websocket/ https://api.steampowered.com/ https://login.steampowered.com/ https://help.steampowered.com/ https://steam.tv/ https://shared.akamai.steamstatic.com/ *.google-analytics.com; frame-src 'self' steam:  http://www.youtube.com https://www.youtube.com https://www.google.com https://sketchfab.com https://player.vimeo.com https://steamcommunity.com/ https://login.steampowered.com/ https://help.steampowered.com/ https://www.google.com/recaptcha/ https://recaptcha.net/recaptcha/; frame-ancestors 'self' https://steamloopback.host ;
+Content-Type: text/html; charset=UTF-8
+Date: Mon, 20 Feb 2023 02:04:16 GMT
+Expires: Mon, 26 Jul 1997 05:00:00 GMT
+Server: nginx
+Set-Cookie: steamCountry=CO%7C112e026a545600e58178bac26576a80f; Path=/; Secure; HttpOnly; SameSite=None
+browserid=2930191281853561003; Expires=Tue, 20 Feb 2024 02:04:16 GMT; Path=/; Secure; SameSite=None
+sessionid=13fd2549b344eb03c22c31fa; Path=/; Secure; SameSite=None
+Strict-Transport-Security: max-age=300
+Transfer-Encoding: chunked
+Vary: Accept-Encoding, Origin, Accept-Encoding
+X-Frame-Options: DENY

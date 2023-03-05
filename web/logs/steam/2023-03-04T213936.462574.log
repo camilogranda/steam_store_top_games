@@ -1,0 +1,1041 @@
+2023-03-04 21:39:42 [scrapy] DEBUG: Crawled (200) <GET https://store.steampowered.com/robots.txt> (referer: None)
+2023-03-04 21:39:47 [scrapy] DEBUG: Crawled (200) <GET https://store.steampowered.com/search/?filter=topsellers> (referer: https://store.akamai.steamstatic.com/public/shared/css/motiva_sans.css?v=Rc2hpzg2Ex3T&l=english) ['playwright']
+2023-03-04 21:39:49 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers>
+{'game_name': 'Sons Of The Forest',
+ 'game_url': 'https://store.steampowered.com/app/1326470/Sons_Of_The_Forest/?snr=1_7_7_7000_150_1',
+ 'img_url': 'https://cdn.akamai.steamstatic.com/steam/apps/1326470/capsule_sm_120.jpg?t=1677179639',
+ 'original_price': 'COL$ 70.000',
+ 'platforms': ['Windows'],
+ 'release_date': '23 Feb, 2023',
+ 'reviews_summary': 'Very Positive - 81% of the 75,238 user reviews for this '
+                    'game are positive.'}
+2023-03-04 21:39:49 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers>
+{'game_name': 'Counter-Strike: Global Offensive',
+ 'game_url': 'https://store.steampowered.com/app/730/CounterStrike_Global_Offensive/?snr=1_7_7_7000_150_1',
+ 'img_url': 'https://cdn.akamai.steamstatic.com/steam/apps/730/capsule_sm_120.jpg?t=1668125812',
+ 'original_price': 'Free to Play',
+ 'platforms': ['Windows', 'Mac OS', 'Linux'],
+ 'release_date': '21 Aug, 2012',
+ 'reviews_summary': 'Very Positive - 88% of the 6,977,357 user reviews for '
+                    'this game are positive.'}
+2023-03-04 21:39:49 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers>
+{'game_name': 'Destiny 2',
+ 'game_url': 'https://store.steampowered.com/app/1085660/Destiny_2/?snr=1_7_7_7000_150_1',
+ 'img_url': 'https://cdn.akamai.steamstatic.com/steam/apps/1085660/capsule_sm_120.jpg?t=1677611723',
+ 'original_price': 'Free To Play',
+ 'platforms': ['Windows'],
+ 'release_date': '1 Oct, 2019',
+ 'reviews_summary': 'Very Positive - 83% of the 525,431 user reviews for this '
+                    'game are positive.'}
+2023-03-04 21:39:49 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers>
+{'game_name': 'Hogwarts Legacy',
+ 'game_url': 'https://store.steampowered.com/app/990080/Hogwarts_Legacy/?snr=1_7_7_7000_150_1',
+ 'img_url': 'https://cdn.akamai.steamstatic.com/steam/apps/990080/capsule_sm_120.jpg?t=1676412613',
+ 'original_price': 'COL$ 189.999',
+ 'platforms': ['Windows'],
+ 'release_date': '10 Feb, 2023',
+ 'reviews_summary': 'Very Positive - 93% of the 122,442 user reviews for this '
+                    'game are positive.'}
+2023-03-04 21:39:49 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers>
+{'game_name': 'Wo Long: Fallen Dynasty',
+ 'game_url': 'https://store.steampowered.com/app/1448440/Wo_Long_Fallen_Dynasty/?snr=1_7_7_7000_150_1',
+ 'img_url': 'https://cdn.akamai.steamstatic.com/steam/apps/1448440/capsule_sm_120.jpg?t=1677836173',
+ 'original_price': 'COL$ 220.000',
+ 'platforms': ['Windows'],
+ 'release_date': '3 Mar, 2023',
+ 'reviews_summary': 'Mostly Negative - 38% of the 7,135 user reviews for this '
+                    'game are positive.'}
+2023-03-04 21:39:49 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers>
+{'game_name': 'Apex Legends™',
+ 'game_url': 'https://store.steampowered.com/app/1172470/Apex_Legends/?snr=1_7_7_7000_150_1',
+ 'img_url': 'https://cdn.akamai.steamstatic.com/steam/apps/1172470/capsule_sm_120.jpg?t=1677523686',
+ 'original_price': 'Free to Play',
+ 'platforms': ['Windows'],
+ 'release_date': '4 Nov, 2020',
+ 'reviews_summary': 'Very Positive - 83% of the 608,400 user reviews for this '
+                    'game are positive.'}
+2023-03-04 21:39:49 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers>
+{'discount_rate': '75%',
+ 'discounted_price': 'COL$ 44.975',
+ 'game_name': 'Anno 1800',
+ 'game_url': 'https://store.steampowered.com/app/916440/Anno_1800/?snr=1_7_7_7000_150_1',
+ 'img_url': 'https://cdn.akamai.steamstatic.com/steam/apps/916440/capsule_sm_120.jpg?t=1676302840',
+ 'original_price': 'COL$ 179.900',
+ 'platforms': ['Windows'],
+ 'release_date': 'Apr 2019',
+ 'reviews_summary': 'Very Positive - 80% of the 5,859 user reviews for this '
+                    'game are positive.'}
+2023-03-04 21:39:49 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers>
+{'game_name': 'Call of Duty®: Modern Warfare® II',
+ 'game_url': 'https://store.steampowered.com/app/1938090/Call_of_Duty_Modern_Warfare_II/?snr=1_7_7_7000_150_1',
+ 'img_url': 'https://cdn.akamai.steamstatic.com/steam/apps/1938090/capsule_sm_120.jpg?t=1677804217',
+ 'original_price': 'COL$ 249.999',
+ 'platforms': ['Windows'],
+ 'release_date': '27 Oct, 2022',
+ 'reviews_summary': 'Mixed - 62% of the 329,250 user reviews for this game are '
+                    'positive.'}
+2023-03-04 21:39:49 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers>
+{'game_name': 'Destiny 2: Lightfall',
+ 'game_url': 'https://store.steampowered.com/app/1945340/Destiny_2_Lightfall/?snr=1_7_7_7000_150_1',
+ 'img_url': 'https://cdn.akamai.steamstatic.com/steam/apps/1945340/capsule_sm_120.jpg?t=1677603696',
+ 'original_price': 'COL$ 66.999',
+ 'platforms': ['Windows'],
+ 'release_date': '28 Feb, 2023',
+ 'reviews_summary': 'Mostly Negative - 30% of the 3,710 user reviews for this '
+                    'game are positive.'}
+2023-03-04 21:39:49 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers>
+{'discount_rate': '67%',
+ 'discounted_price': 'COL$ 13.035',
+ 'game_name': 'Deep Rock Galactic',
+ 'game_url': 'https://store.steampowered.com/app/548430/Deep_Rock_Galactic/?snr=1_7_7_7000_150_1',
+ 'img_url': 'https://cdn.akamai.steamstatic.com/steam/apps/548430/capsule_sm_120.jpg?t=1677928593',
+ 'original_price': 'COL$ 39.500',
+ 'platforms': ['Windows'],
+ 'release_date': '13 May, 2020',
+ 'reviews_summary': 'Overwhelmingly Positive - 97% of the 151,940 user reviews '
+                    'for this game are positive.'}
+2023-03-04 21:39:49 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers>
+{'discount_rate': '67%',
+ 'discounted_price': 'COL$ 65.967',
+ 'game_name': 'Red Dead Redemption 2',
+ 'game_url': 'https://store.steampowered.com/app/1174180/Red_Dead_Redemption_2/?snr=1_7_7_7000_150_1',
+ 'img_url': 'https://cdn.akamai.steamstatic.com/steam/apps/1174180/capsule_sm_120.jpg?t=1671485009',
+ 'original_price': 'COL$ 199.900',
+ 'platforms': ['Windows'],
+ 'release_date': '5 Dec, 2019',
+ 'reviews_summary': 'Very Positive - 89% of the 343,150 user reviews for this '
+                    'game are positive.'}
+2023-03-04 21:39:49 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers>
+{'game_name': 'EA SPORTS™ FIFA 23',
+ 'game_url': 'https://store.steampowered.com/app/1811260/EA_SPORTS_FIFA_23/?snr=1_7_7_7000_150_1',
+ 'img_url': 'https://cdn.akamai.steamstatic.com/steam/apps/1811260/capsule_sm_120.jpg?t=1677074188',
+ 'original_price': 'COL$ 279.999',
+ 'platforms': ['Windows'],
+ 'release_date': '29 Sep, 2022',
+ 'reviews_summary': 'Mixed - 50% of the 70,922 user reviews for this game are '
+                    'positive.'}
+2023-03-04 21:39:49 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers>
+{'discount_rate': '50%',
+ 'discounted_price': 'COL$ 56.000',
+ 'game_name': 'MONSTER HUNTER RISE',
+ 'game_url': 'https://store.steampowered.com/app/1446780/MONSTER_HUNTER_RISE/?snr=1_7_7_7000_150_1',
+ 'img_url': 'https://cdn.akamai.steamstatic.com/steam/apps/1446780/capsule_sm_120.jpg?t=1676591520',
+ 'original_price': 'COL$ 112.000',
+ 'platforms': ['Windows'],
+ 'release_date': '12 Jan, 2022',
+ 'reviews_summary': 'Very Positive - 86% of the 43,366 user reviews for this '
+                    'game are positive.'}
+2023-03-04 21:39:49 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers>
+{'discount_rate': '60%',
+ 'discounted_price': 'COL$ 23.960',
+ 'game_name': "Tom Clancy's Rainbow Six® Siege",
+ 'game_url': 'https://store.steampowered.com/app/359550/Tom_Clancys_Rainbow_Six_Siege/?snr=1_7_7_7000_150_1',
+ 'img_url': 'https://cdn.akamai.steamstatic.com/steam/apps/359550/capsule_sm_120.jpg?t=1676906895',
+ 'original_price': 'COL$ 59.900',
+ 'platforms': ['Windows'],
+ 'release_date': '1 Dec, 2015',
+ 'reviews_summary': 'Very Positive - 86% of the 942,962 user reviews for this '
+                    'game are positive.'}
+2023-03-04 21:39:49 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers>
+{'game_name': 'War Thunder',
+ 'game_url': 'https://store.steampowered.com/app/236390/War_Thunder/?snr=1_7_7_7000_150_1',
+ 'img_url': 'https://cdn.akamai.steamstatic.com/steam/apps/236390/capsule_sm_120.jpg?t=1671733778',
+ 'original_price': 'Free to Play',
+ 'platforms': ['Windows', 'Mac OS', 'Linux', 'VR Supported'],
+ 'release_date': '15 Aug, 2013',
+ 'reviews_summary': 'Mostly Positive - 78% of the 376,890 user reviews for '
+                    'this game are positive.'}
+2023-03-04 21:39:49 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers>
+{'game_name': 'Atomic Heart',
+ 'game_url': 'https://store.steampowered.com/app/668580/Atomic_Heart/?snr=1_7_7_7000_150_1',
+ 'img_url': 'https://cdn.akamai.steamstatic.com/steam/apps/668580/capsule_sm_120.jpg?t=1676995676',
+ 'original_price': 'COL$ 199.900',
+ 'platforms': ['Windows'],
+ 'release_date': '20 Feb, 2023',
+ 'reviews_summary': 'Very Positive - 86% of the 11,751 user reviews for this '
+                    'game are positive.'}
+2023-03-04 21:39:49 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers>
+{'discount_rate': '67%',
+ 'discounted_price': 'COL$ 65.967',
+ 'game_name': "Assassin's Creed Valhalla",
+ 'game_url': 'https://store.steampowered.com/app/2208920/Assassins_Creed_Valhalla/?snr=1_7_7_7000_150_1',
+ 'img_url': 'https://cdn.akamai.steamstatic.com/steam/apps/2208920/capsule_sm_120.jpg?t=1671135934',
+ 'original_price': 'COL$ 199.900',
+ 'platforms': ['Windows'],
+ 'release_date': '6 Dec, 2022',
+ 'reviews_summary': 'Mixed - 64% of the 5,981 user reviews for this game are '
+                    'positive.'}
+2023-03-04 21:39:49 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers>
+{'game_name': 'ELDEN RING',
+ 'game_url': 'https://store.steampowered.com/app/1245620/ELDEN_RING/?snr=1_7_7_7000_150_1',
+ 'img_url': 'https://cdn.akamai.steamstatic.com/steam/apps/1245620/capsule_sm_120.jpg?t=1674441703',
+ 'original_price': 'COL$ 207.000',
+ 'platforms': ['Windows'],
+ 'release_date': '24 Feb, 2022',
+ 'reviews_summary': 'Very Positive - 91% of the 487,263 user reviews for this '
+                    'game are positive.'}
+2023-03-04 21:39:49 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers>
+{'game_name': 'Lost Ark',
+ 'game_url': 'https://store.steampowered.com/app/1599340/Lost_Ark/?snr=1_7_7_7000_150_1',
+ 'img_url': 'https://cdn.akamai.steamstatic.com/steam/apps/1599340/capsule_sm_120.jpg?t=1675876782',
+ 'original_price': 'Free To Play',
+ 'platforms': ['Windows'],
+ 'release_date': '11 Feb, 2022',
+ 'reviews_summary': 'Mostly Positive - 71% of the 189,952 user reviews for '
+                    'this game are positive.'}
+2023-03-04 21:39:49 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers>
+{'game_name': 'Grand Theft Auto V',
+ 'game_url': 'https://store.steampowered.com/app/271590/Grand_Theft_Auto_V/?snr=1_7_7_7000_150_1',
+ 'img_url': 'https://cdn.akamai.steamstatic.com/steam/apps/271590/capsule_sm_120.jpg?t=1671485100',
+ 'platforms': ['Windows'],
+ 'release_date': '13 Apr, 2015',
+ 'reviews_summary': 'Very Positive - 85% of the 1,375,285 user reviews for '
+                    'this game are positive.'}
+2023-03-04 21:39:49 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers>
+{'game_name': 'Warframe',
+ 'game_url': 'https://store.steampowered.com/app/230410/Warframe/?snr=1_7_7_7000_150_1',
+ 'img_url': 'https://cdn.akamai.steamstatic.com/steam/apps/230410/capsule_sm_120.jpg?t=1676495975',
+ 'original_price': 'Free to Play',
+ 'platforms': ['Windows'],
+ 'release_date': '25 Mar, 2013',
+ 'reviews_summary': 'Very Positive - 87% of the 522,843 user reviews for this '
+                    'game are positive.This product has experienced one or '
+                    'more periods of off-topic review activity.  Based on your '
+                    'preferences, the reviews within these periods have been '
+                    "excluded from this product's Review Score."}
+2023-03-04 21:39:49 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers>
+{'discount_rate': '60%',
+ 'discounted_price': 'COL$ 61.999',
+ 'game_name': 'LEGO® Star Wars™: The Skywalker Saga',
+ 'game_url': 'https://store.steampowered.com/app/920210/LEGO_Star_Wars_The_Skywalker_Saga/?snr=1_7_7_7000_150_1',
+ 'img_url': 'https://cdn.akamai.steamstatic.com/steam/apps/920210/capsule_sm_120.jpg?t=1676414649',
+ 'original_price': 'COL$ 154.999',
+ 'platforms': ['Windows'],
+ 'release_date': '5 Apr, 2022',
+ 'reviews_summary': 'Very Positive - 92% of the 28,622 user reviews for this '
+                    'game are positive.'}
+2023-03-04 21:39:49 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers>
+{'discount_rate': '85%',
+ 'discounted_price': 'COL$ 26.985',
+ 'game_name': 'Far Cry® 5',
+ 'game_url': 'https://store.steampowered.com/app/552520/Far_Cry_5/?snr=1_7_7_7000_150_1',
+ 'img_url': 'https://cdn.akamai.steamstatic.com/steam/apps/552520/capsule_sm_120.jpg?t=1671031724',
+ 'original_price': 'COL$ 179.900',
+ 'platforms': ['Windows'],
+ 'release_date': '26 Mar, 2018',
+ 'reviews_summary': 'Very Positive - 80% of the 121,064 user reviews for this '
+                    'game are positive.'}
+2023-03-04 21:39:49 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers>
+{'game_name': 'Company of Heroes 3',
+ 'game_url': 'https://store.steampowered.com/app/1677280/Company_of_Heroes_3/?snr=1_7_7_7000_150_1',
+ 'img_url': 'https://cdn.akamai.steamstatic.com/steam/apps/1677280/capsule_sm_120.jpg?t=1677780045',
+ 'original_price': 'COL$ 182.900',
+ 'platforms': ['Windows'],
+ 'release_date': '23 Feb, 2023',
+ 'reviews_summary': 'Mixed - 63% of the 6,254 user reviews for this game are '
+                    'positive.'}
+2023-03-04 21:39:49 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers>
+{'game_name': 'OCTOPATH TRAVELER II',
+ 'game_url': 'https://store.steampowered.com/app/1971650/OCTOPATH_TRAVELER_II/?snr=1_7_7_7000_150_1',
+ 'img_url': 'https://cdn.akamai.steamstatic.com/steam/apps/1971650/capsule_sm_120.jpg?t=1677885098',
+ 'original_price': 'COL$ 262.900',
+ 'platforms': ['Windows'],
+ 'release_date': '24 Feb, 2023',
+ 'reviews_summary': 'Overwhelmingly Positive - 96% of the 1,473 user reviews '
+                    'for this game are positive.'}
+2023-03-04 21:39:49 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers>
+{'game_name': 'Resident Evil 4',
+ 'game_url': 'https://store.steampowered.com/app/2050650/Resident_Evil_4/?snr=1_7_7_7000_150_1',
+ 'img_url': 'https://cdn.akamai.steamstatic.com/steam/apps/2050650/capsule_sm_120.jpg?t=1676336907',
+ 'original_price': 'COL$ 159.000',
+ 'platforms': ['Windows'],
+ 'release_date': '23 Mar, 2023'}
+2023-03-04 21:39:49 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers>
+{'discount_rate': '50%',
+ 'discounted_price': 'COL$ 39.850',
+ 'game_name': 'Monster Hunter: World',
+ 'game_url': 'https://store.steampowered.com/app/582010/Monster_Hunter_World/?snr=1_7_7_7000_150_1',
+ 'img_url': 'https://cdn.akamai.steamstatic.com/steam/apps/582010/capsule_sm_120.jpg?t=1661838392',
+ 'original_price': 'COL$ 79.700',
+ 'platforms': ['Windows'],
+ 'release_date': '9 Aug, 2018',
+ 'reviews_summary': 'Very Positive - 87% of the 225,586 user reviews for this '
+                    'game are positive.This product has experienced one or '
+                    'more periods of off-topic review activity.  Based on your '
+                    'preferences, the reviews within these periods have been '
+                    "excluded from this product's Review Score."}
+2023-03-04 21:39:49 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers>
+{'game_name': 'PUBG: BATTLEGROUNDS',
+ 'game_url': 'https://store.steampowered.com/app/578080/PUBG_BATTLEGROUNDS/?snr=1_7_7_7000_150_1',
+ 'img_url': 'https://cdn.akamai.steamstatic.com/steam/apps/578080/capsule_sm_120.jpg?t=1673331963',
+ 'original_price': 'Free to Play',
+ 'platforms': ['Windows'],
+ 'release_date': '21 Dec, 2017',
+ 'reviews_summary': 'Mixed - 57% of the 2,149,250 user reviews for this game '
+                    'are positive.'}
+2023-03-04 21:39:49 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers>
+{'discount_rate': '20%',
+ 'discounted_price': 'COL$ 56.000',
+ 'game_name': 'Phantom Brigade',
+ 'game_url': 'https://store.steampowered.com/app/553540/Phantom_Brigade/?snr=1_7_7_7000_150_1',
+ 'img_url': 'https://cdn.akamai.steamstatic.com/steam/apps/553540/capsule_sm_120.jpg?t=1677820449',
+ 'original_price': 'COL$ 70.000',
+ 'platforms': ['Windows'],
+ 'release_date': '28 Feb, 2023',
+ 'reviews_summary': 'Very Positive - 86% of the 825 user reviews for this game '
+                    'are positive.'}
+2023-03-04 21:39:49 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers>
+{'discount_rate': '75%',
+ 'discounted_price': 'COL$ 44.975',
+ 'game_name': "Assassin's Creed® Odyssey",
+ 'game_url': 'https://store.steampowered.com/app/812140/Assassins_Creed_Odyssey/?snr=1_7_7_7000_150_1',
+ 'img_url': 'https://cdn.akamai.steamstatic.com/steam/apps/812140/capsule_sm_120.jpg?t=1670596226',
+ 'original_price': 'COL$ 179.900',
+ 'platforms': ['Windows'],
+ 'release_date': '5 Oct, 2018',
+ 'reviews_summary': 'Very Positive - 89% of the 120,452 user reviews for this '
+                    'game are positive.'}
+2023-03-04 21:39:49 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers>
+{'game_name': 'Rust',
+ 'game_url': 'https://store.steampowered.com/app/252490/Rust/?snr=1_7_7_7000_150_1',
+ 'img_url': 'https://cdn.akamai.steamstatic.com/steam/apps/252490/capsule_sm_120.jpg?t=1671160999',
+ 'original_price': 'COL$ 84.500',
+ 'platforms': ['Windows', 'Mac OS'],
+ 'release_date': '8 Feb, 2018',
+ 'reviews_summary': 'Very Positive - 87% of the 727,924 user reviews for this '
+                    'game are positive.'}
+2023-03-04 21:39:49 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers>
+{'game_name': 'Yu-Gi-Oh! Master Duel',
+ 'game_url': 'https://store.steampowered.com/app/1449850/YuGiOh_Master_Duel/?snr=1_7_7_7000_150_1',
+ 'img_url': 'https://cdn.akamai.steamstatic.com/steam/apps/1449850/capsule_sm_120.jpg?t=1676878640',
+ 'original_price': 'Free To Play',
+ 'platforms': ['Windows'],
+ 'release_date': '18 Jan, 2022',
+ 'reviews_summary': 'Mostly Positive - 77% of the 57,108 user reviews for this '
+                    'game are positive.'}
+2023-03-04 21:39:49 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers>
+{'discount_rate': '80%',
+ 'discounted_price': 'COL$ 35.980',
+ 'game_name': "Tom Clancy's Ghost Recon® Breakpoint",
+ 'game_url': 'https://store.steampowered.com/app/2231380/Tom_Clancys_Ghost_Recon_Breakpoint/?snr=1_7_7_7000_150_1',
+ 'img_url': 'https://cdn.akamai.steamstatic.com/steam/apps/2231380/capsule_sm_120.jpg?t=1674496956',
+ 'original_price': 'COL$ 179.900',
+ 'platforms': ['Windows'],
+ 'release_date': '23 Jan, 2023',
+ 'reviews_summary': 'Mixed - 59% of the 3,156 user reviews for this game are '
+                    'positive.'}
+2023-03-04 21:39:49 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers>
+{'discount_rate': '75%',
+ 'discounted_price': 'COL$ 39.975',
+ 'game_name': 'South Park™: The Fractured But Whole™',
+ 'game_url': 'https://store.steampowered.com/app/488790/South_Park_The_Fractured_But_Whole/?snr=1_7_7_7000_150_1',
+ 'img_url': 'https://cdn.akamai.steamstatic.com/steam/apps/488790/capsule_sm_120.jpg?t=1611670306',
+ 'original_price': 'COL$ 159.900',
+ 'platforms': ['Windows'],
+ 'release_date': '16 Oct, 2017',
+ 'reviews_summary': 'Very Positive - 82% of the 18,724 user reviews for this '
+                    'game are positive.'}
+2023-03-04 21:39:49 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers>
+{'discount_rate': '75%',
+ 'discounted_price': 'COL$ 18.823',
+ 'game_name': 'Metro Exodus',
+ 'game_url': 'https://store.steampowered.com/app/412020/Metro_Exodus/?snr=1_7_7_7000_150_1',
+ 'img_url': 'https://cdn.akamai.steamstatic.com/steam/apps/412020/capsule_sm_120.jpg?t=1669390585',
+ 'original_price': 'COL$ 75.294',
+ 'platforms': ['Windows', 'Mac OS', 'Linux'],
+ 'release_date': '14 Feb, 2020',
+ 'reviews_summary': 'Very Positive - 89% of the 73,127 user reviews for this '
+                    'game are positive.'}
+2023-03-04 21:39:49 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers>
+{'game_name': 'The Elder Scrolls® Online',
+ 'game_url': 'https://store.steampowered.com/app/306130/The_Elder_Scrolls_Online/?snr=1_7_7_7000_150_1',
+ 'img_url': 'https://cdn.akamai.steamstatic.com/steam/apps/306130/capsule_sm_120.jpg?t=1676902256',
+ 'original_price': 'COL$ 49.900',
+ 'platforms': ['Windows', 'Mac OS'],
+ 'release_date': '22 May, 2017',
+ 'reviews_summary': 'Very Positive - 83% of the 108,176 user reviews for this '
+                    'game are positive.'}
+2023-03-04 21:39:49 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers>
+{'discount_rate': '60%',
+ 'discounted_price': 'COL$ 159.999',
+ 'game_name': 'NBA 2K23',
+ 'game_url': 'https://store.steampowered.com/app/1919590/NBA_2K23/?snr=1_7_7_7000_150_1',
+ 'img_url': 'https://cdn.akamai.steamstatic.com/steam/apps/1919590/capsule_sm_120.jpg?t=1677540477',
+ 'original_price': 'COL$ 399.999',
+ 'platforms': ['Windows'],
+ 'release_date': '8 Sep, 2022',
+ 'reviews_summary': 'Mixed - 63% of the 17,247 user reviews for this game are '
+                    'positive.'}
+2023-03-04 21:39:49 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers>
+{'game_name': 'Dota 2',
+ 'game_url': 'https://store.steampowered.com/app/570/Dota_2/?snr=1_7_7_7000_150_1',
+ 'img_url': 'https://cdn.akamai.steamstatic.com/steam/apps/570/capsule_sm_120.jpg?t=1677268716',
+ 'original_price': 'Free to Play',
+ 'platforms': ['Windows', 'Mac OS', 'Linux'],
+ 'release_date': '9 Jul, 2013',
+ 'reviews_summary': 'Very Positive - 82% of the 1,938,374 user reviews for '
+                    'this game are positive.'}
+2023-03-04 21:39:49 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers>
+{'discount_rate': '50%',
+ 'discounted_price': 'COL$ 56.000',
+ 'game_name': 'Resident Evil Village',
+ 'game_url': 'https://store.steampowered.com/app/1196590/Resident_Evil_Village/?snr=1_7_7_7000_150_1',
+ 'img_url': 'https://cdn.akamai.steamstatic.com/steam/apps/1196590/capsule_sm_120.jpg?t=1671167205',
+ 'original_price': 'COL$ 112.000',
+ 'platforms': ['Windows'],
+ 'release_date': '7 May, 2021',
+ 'reviews_summary': 'Overwhelmingly Positive - 95% of the 59,881 user reviews '
+                    'for this game are positive.'}
+2023-03-04 21:39:49 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers>
+{'discount_rate': '60%',
+ 'discounted_price': 'COL$ 31.600',
+ 'game_name': 'Hunt: Showdown',
+ 'game_url': 'https://store.steampowered.com/app/594650/Hunt_Showdown/?snr=1_7_7_7000_150_1',
+ 'img_url': 'https://cdn.akamai.steamstatic.com/steam/apps/594650/capsule_sm_120.jpg?t=1677683269',
+ 'original_price': 'COL$ 79.000',
+ 'platforms': ['Windows'],
+ 'release_date': '27 Aug, 2019',
+ 'reviews_summary': 'Very Positive - 83% of the 121,656 user reviews for this '
+                    'game are positive.'}
+2023-03-04 21:39:49 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers>
+{'discount_rate': '67%',
+ 'discounted_price': 'COL$ 26.301',
+ 'game_name': 'Devil May Cry 5',
+ 'game_url': 'https://store.steampowered.com/app/601150/Devil_May_Cry_5/?snr=1_7_7_7000_150_1',
+ 'img_url': 'https://cdn.akamai.steamstatic.com/steam/apps/601150/capsule_sm_120.jpg?t=1675151951',
+ 'original_price': 'COL$ 79.700',
+ 'platforms': ['Windows'],
+ 'release_date': '7 Mar, 2019',
+ 'reviews_summary': 'Overwhelmingly Positive - 95% of the 61,839 user reviews '
+                    'for this game are positive.'}
+2023-03-04 21:39:49 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers>
+{'discount_rate': '100%',
+ 'discounted_price': 'Free',
+ 'game_name': 'Black Desert',
+ 'game_url': 'https://store.steampowered.com/app/582660/Black_Desert/?snr=1_7_7_7000_150_1',
+ 'img_url': 'https://cdn.akamai.steamstatic.com/steam/apps/582660/capsule_sm_120.jpg?t=1677957850',
+ 'original_price': 'COL$ 0',
+ 'platforms': ['Windows'],
+ 'release_date': '15 Nov, 2017',
+ 'reviews_summary': 'Mostly Positive - 76% of the 46,083 user reviews for this '
+                    'game are positive.'}
+2023-03-04 21:39:49 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers>
+{'game_name': 'FINAL FANTASY XIV Online',
+ 'game_url': 'https://store.steampowered.com/app/39210/FINAL_FANTASY_XIV_Online/?snr=1_7_7_7000_150_1',
+ 'img_url': 'https://cdn.akamai.steamstatic.com/steam/apps/39210/capsule_sm_120.jpg?t=1669805579',
+ 'original_price': 'COL$ 49.600',
+ 'platforms': ['Windows'],
+ 'release_date': '18 Feb, 2014',
+ 'reviews_summary': 'Very Positive - 88% of the 58,731 user reviews for this '
+                    'game are positive.'}
+2023-03-04 21:39:49 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers>
+{'discount_rate': '85%',
+ 'discounted_price': 'COL$ 23.985',
+ 'game_name': 'Watch_Dogs® 2',
+ 'game_url': 'https://store.steampowered.com/app/447040/Watch_Dogs_2/?snr=1_7_7_7000_150_1',
+ 'img_url': 'https://cdn.akamai.steamstatic.com/steam/apps/447040/capsule_sm_120.jpg?t=1671031898',
+ 'original_price': 'COL$ 159.900',
+ 'platforms': ['Windows'],
+ 'release_date': '28 Nov, 2016',
+ 'reviews_summary': 'Very Positive - 83% of the 55,820 user reviews for this '
+                    'game are positive.'}
+2023-03-04 21:39:49 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers>
+{'discount_rate': '80%',
+ 'discounted_price': 'COL$ 31.980',
+ 'game_name': "Tom Clancy's Ghost Recon® Wildlands",
+ 'game_url': 'https://store.steampowered.com/app/460930/Tom_Clancys_Ghost_Recon_Wildlands/?snr=1_7_7_7000_150_1',
+ 'img_url': 'https://cdn.akamai.steamstatic.com/steam/apps/460930/capsule_sm_120.jpg?t=1674233897',
+ 'original_price': 'COL$ 159.900',
+ 'platforms': ['Windows'],
+ 'release_date': '6 Mar, 2017',
+ 'reviews_summary': 'Very Positive - 80% of the 61,719 user reviews for this '
+                    'game are positive.'}
+2023-03-04 21:39:49 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers>
+{'game_name': "Baldur's Gate 3",
+ 'game_url': 'https://store.steampowered.com/app/1086940/Baldurs_Gate_3/?snr=1_7_7_7000_150_1',
+ 'img_url': 'https://cdn.akamai.steamstatic.com/steam/apps/1086940/capsule_sm_120.jpg?t=1677776607',
+ 'original_price': 'COL$ 199.000',
+ 'platforms': ['Windows', 'Mac OS'],
+ 'release_date': '6 Oct, 2020',
+ 'reviews_summary': 'Very Positive - 87% of the 52,655 user reviews for this '
+                    'game are positive.'}
+2023-03-04 21:39:49 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers>
+{'discount_rate': '25%',
+ 'discounted_price': 'COL$ 32.625',
+ 'game_name': 'Patch Quest',
+ 'game_url': 'https://store.steampowered.com/app/1347970/Patch_Quest/?snr=1_7_7_7000_150_1',
+ 'img_url': 'https://cdn.akamai.steamstatic.com/steam/apps/1347970/capsule_sm_120_alt_assets_6.jpg?t=1677863502',
+ 'original_price': 'COL$ 43.500',
+ 'platforms': ['Windows'],
+ 'release_date': '2 Mar, 2023',
+ 'reviews_summary': 'Overwhelmingly Positive - 97% of the 672 user reviews for '
+                    'this game are positive.'}
+2023-03-04 21:39:49 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers>
+{'game_name': 'NARAKA: BLADEPOINT',
+ 'game_url': 'https://store.steampowered.com/app/1203220/NARAKA_BLADEPOINT/?snr=1_7_7_7000_150_1',
+ 'img_url': 'https://cdn.akamai.steamstatic.com/steam/apps/1203220/capsule_sm_120.jpg?t=1677502102',
+ 'original_price': 'COL$ 79.999',
+ 'platforms': ['Windows'],
+ 'release_date': '11 Aug, 2021',
+ 'reviews_summary': 'Mostly Positive - 76% of the 122,828 user reviews for '
+                    'this game are positive.This product has experienced one '
+                    'or more periods of off-topic review activity.  Based on '
+                    'your preferences, the reviews within these periods have '
+                    "been excluded from this product's Review Score."}
+2023-03-04 21:39:49 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers>
+{'discount_rate': '70%',
+ 'discounted_price': 'COL$ 26.970',
+ 'game_name': 'Tom Clancy’s The Division® 2',
+ 'game_url': 'https://store.steampowered.com/app/2221490/Tom_Clancys_The_Division_2/?snr=1_7_7_7000_150_1',
+ 'img_url': 'https://cdn.akamai.steamstatic.com/steam/apps/2221490/capsule_sm_120.jpg?t=1677792161',
+ 'original_price': 'COL$ 89.900',
+ 'platforms': ['Windows'],
+ 'release_date': '12 Jan, 2023',
+ 'reviews_summary': 'Mixed - 63% of the 3,912 user reviews for this game are '
+                    'positive.'}
+2023-03-04 21:39:49 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers>
+{'game_name': 'Dead by Daylight',
+ 'game_url': 'https://store.steampowered.com/app/381210/Dead_by_Daylight/?snr=1_7_7_7000_150_1',
+ 'img_url': 'https://cdn.akamai.steamstatic.com/steam/apps/381210/capsule_sm_120.jpg?t=1677193661',
+ 'original_price': 'COL$ 44.900',
+ 'platforms': ['Windows'],
+ 'release_date': '14 Jun, 2016',
+ 'reviews_summary': 'Very Positive - 81% of the 463,264 user reviews for this '
+                    'game are positive.'}
+2023-03-04 21:39:49 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers>
+{'game_name': 'The Forest',
+ 'game_url': 'https://store.steampowered.com/app/242760/The_Forest/?snr=1_7_7_7000_150_2',
+ 'img_url': 'https://cdn.akamai.steamstatic.com/steam/apps/242760/capsule_sm_120.jpg?t=1666811027',
+ 'original_price': 'COL$ 31.000',
+ 'platforms': ['Windows', 'VR Supported'],
+ 'release_date': '30 Apr, 2018',
+ 'reviews_summary': 'Overwhelmingly Positive - 95% of the 396,166 user reviews '
+                    'for this game are positive.'}
+2023-03-04 21:39:49 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers>
+{'game_name': 'Project Zomboid',
+ 'game_url': 'https://store.steampowered.com/app/108600/Project_Zomboid/?snr=1_7_7_7000_150_2',
+ 'img_url': 'https://cdn.akamai.steamstatic.com/steam/apps/108600/capsule_sm_120.jpg?t=1667832656',
+ 'original_price': 'COL$ 31.000',
+ 'platforms': ['Windows', 'Mac OS', 'Linux'],
+ 'release_date': '8 Nov, 2013',
+ 'reviews_summary': 'Very Positive - 93% of the 135,938 user reviews for this '
+                    'game are positive.'}
+2023-03-04 21:39:49 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers>
+{'game_name': 'Kerbal Space Program 2',
+ 'game_url': 'https://store.steampowered.com/app/954850/Kerbal_Space_Program_2/?snr=1_7_7_7000_150_2',
+ 'img_url': 'https://cdn.akamai.steamstatic.com/steam/apps/954850/capsule_sm_120.jpg?t=1677247229',
+ 'original_price': 'COL$ 107.000',
+ 'platforms': ['Windows'],
+ 'release_date': '24 Feb, 2023',
+ 'reviews_summary': 'Mixed - 50% of the 10,449 user reviews for this game are '
+                    'positive.'}
+2023-03-04 21:39:49 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers>
+{'discount_rate': '80%',
+ 'discounted_price': 'COL$ 35.980',
+ 'game_name': "Assassin's Creed® Origins",
+ 'game_url': 'https://store.steampowered.com/app/582160/Assassins_Creed_Origins/?snr=1_7_7_7000_150_2',
+ 'img_url': 'https://cdn.akamai.steamstatic.com/steam/apps/582160/capsule_sm_120.jpg?t=1603213581',
+ 'original_price': 'COL$ 179.900',
+ 'platforms': ['Windows'],
+ 'release_date': '27 Oct, 2017',
+ 'reviews_summary': 'Very Positive - 86% of the 78,979 user reviews for this '
+                    'game are positive.'}
+2023-03-04 21:39:49 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers>
+{'discount_rate': '20%',
+ 'discounted_price': 'COL$ 103.920',
+ 'game_name': 'Warhammer 40,000: Darktide',
+ 'game_url': 'https://store.steampowered.com/app/1361210/Warhammer_40000_Darktide/?snr=1_7_7_7000_150_2',
+ 'img_url': 'https://cdn.akamai.steamstatic.com/steam/apps/1361210/capsule_sm_120.jpg?t=1677878047',
+ 'original_price': 'COL$ 129.900',
+ 'platforms': ['Windows'],
+ 'release_date': '30 Nov, 2022',
+ 'reviews_summary': 'Mixed - 54% of the 55,714 user reviews for this game are '
+                    'positive.'}
+2023-03-04 21:39:49 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers>
+{'game_name': 'The Sims™ 4',
+ 'game_url': 'https://store.steampowered.com/app/1222670/The_Sims_4/?snr=1_7_7_7000_150_2',
+ 'img_url': 'https://cdn.akamai.steamstatic.com/steam/apps/1222670/capsule_sm_120_alt_assets_4.jpg?t=1677169458',
+ 'original_price': 'Free To Play',
+ 'platforms': ['Windows'],
+ 'release_date': '18 Jun, 2020',
+ 'reviews_summary': 'Very Positive - 86% of the 89,444 user reviews for this '
+                    'game are positive.'}
+2023-03-04 21:39:49 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers>
+{'discount_rate': '60%',
+ 'discounted_price': 'COL$ 21.800',
+ 'game_name': 'Destiny 2: The Witch Queen',
+ 'game_url': 'https://store.steampowered.com/app/1656330/Destiny_2_The_Witch_Queen/?snr=1_7_7_7000_150_2',
+ 'img_url': 'https://cdn.akamai.steamstatic.com/steam/apps/1656330/capsule_sm_120.jpg?t=1677603663',
+ 'original_price': 'COL$ 54.500',
+ 'platforms': ['Windows'],
+ 'release_date': '22 Feb, 2022',
+ 'reviews_summary': 'Mostly Positive - 77% of the 1,995 user reviews for this '
+                    'game are positive.'}
+2023-03-04 21:39:49 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers>
+{'discount_rate': '50%',
+ 'discounted_price': 'COL$ 56.000',
+ 'game_name': 'Monster Hunter World: Iceborne',
+ 'game_url': 'https://store.steampowered.com/app/1118010/Monster_Hunter_World_Iceborne/?snr=1_7_7_7000_150_2',
+ 'img_url': 'https://cdn.akamai.steamstatic.com/steam/apps/1118010/capsule_sm_120.jpg?t=1661218568',
+ 'original_price': 'COL$ 112.000',
+ 'platforms': ['Windows'],
+ 'release_date': '9 Jan, 2020',
+ 'reviews_summary': 'Mixed - 56% of the 15,010 user reviews for this game are '
+                    'positive.This product has experienced one or more periods '
+                    'of off-topic review activity.  Based on your preferences, '
+                    'the reviews within these periods have been excluded from '
+                    "this product's Review Score."}
+2023-03-04 21:39:49 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers>
+{'game_name': 'Phasmophobia',
+ 'game_url': 'https://store.steampowered.com/app/739630/Phasmophobia/?snr=1_7_7_7000_150_2',
+ 'img_url': 'https://cdn.akamai.steamstatic.com/steam/apps/739630/capsule_sm_120.jpg?t=1674232976',
+ 'original_price': 'COL$ 24.000',
+ 'platforms': ['Windows', 'VR Supported'],
+ 'release_date': '18 Sep, 2020',
+ 'reviews_summary': 'Overwhelmingly Positive - 96% of the 434,929 user reviews '
+                    'for this game are positive.'}
+2023-03-04 21:39:49 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers>
+{'discount_rate': '75%',
+ 'discounted_price': 'COL$ 22.475',
+ 'game_name': 'South Park™: The Stick of Truth™',
+ 'game_url': 'https://store.steampowered.com/app/213670/South_Park_The_Stick_of_Truth/?snr=1_7_7_7000_150_2',
+ 'img_url': 'https://cdn.akamai.steamstatic.com/steam/apps/213670/capsule_sm_120.jpg?t=1611584789',
+ 'original_price': 'COL$ 89.900',
+ 'platforms': ['Windows'],
+ 'release_date': '3 Mar, 2014',
+ 'reviews_summary': 'Overwhelmingly Positive - 97% of the 41,659 user reviews '
+                    'for this game are positive.'}
+2023-03-04 21:39:49 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers>
+{'game_name': 'Deep Rock Galactic - Supporter II Upgrade',
+ 'game_url': 'https://store.steampowered.com/app/2291670/Deep_Rock_Galactic__Supporter_II_Upgrade/?snr=1_7_7_7000_150_2',
+ 'img_url': 'https://cdn.akamai.steamstatic.com/steam/apps/2291670/capsule_sm_120.jpg?t=1677762494',
+ 'original_price': 'COL$ 25.000',
+ 'platforms': ['Windows'],
+ 'release_date': '2 Mar, 2023',
+ 'reviews_summary': 'Very Positive - 98% of the 482 user reviews for this game '
+                    'are positive.'}
+2023-03-04 21:39:49 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers>
+{'discount_rate': '80%',
+ 'discounted_price': 'COL$ 39.980',
+ 'game_name': 'Watch Dogs®: Legion',
+ 'game_url': 'https://store.steampowered.com/app/2239550/Watch_Dogs_Legion/?snr=1_7_7_7000_150_2',
+ 'img_url': 'https://cdn.akamai.steamstatic.com/steam/apps/2239550/capsule_sm_120.jpg?t=1674755684',
+ 'original_price': 'COL$ 199.900',
+ 'platforms': ['Windows'],
+ 'release_date': '26 Jan, 2023',
+ 'reviews_summary': 'Mixed - 55% of the 1,730 user reviews for this game are '
+                    'positive.'}
+2023-03-04 21:39:49 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers>
+{'discount_rate': '50%',
+ 'discounted_price': 'COL$ 65.000',
+ 'game_name': "No Man's Sky",
+ 'game_url': 'https://store.steampowered.com/app/275850/No_Mans_Sky/?snr=1_7_7_7000_150_2',
+ 'img_url': 'https://cdn.akamai.steamstatic.com/steam/apps/275850/capsule_sm_120_alt_assets_15.jpg?t=1677079554',
+ 'original_price': 'COL$ 130.000',
+ 'platforms': ['Windows', 'VR Supported'],
+ 'release_date': '12 Aug, 2016',
+ 'reviews_summary': 'Mostly Positive - 75% of the 199,828 user reviews for '
+                    'this game are positive.'}
+2023-03-04 21:39:49 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers>
+{'game_name': 'Limbus Company',
+ 'game_url': 'https://store.steampowered.com/app/1973530/Limbus_Company/?snr=1_7_7_7000_150_2',
+ 'img_url': 'https://cdn.akamai.steamstatic.com/steam/apps/1973530/capsule_sm_120.jpg?t=1677453936',
+ 'original_price': 'Free To Play',
+ 'platforms': ['Windows'],
+ 'release_date': '26 Feb, 2023',
+ 'reviews_summary': 'Very Positive - 80% of the 5,178 user reviews for this '
+                    'game are positive.'}
+2023-03-04 21:39:49 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers>
+{'discount_rate': '75%',
+ 'discounted_price': 'COL$ 9.875',
+ 'game_name': 'Kingdom Come: Deliverance',
+ 'game_url': 'https://store.steampowered.com/app/379430/Kingdom_Come_Deliverance/?snr=1_7_7_7000_150_2',
+ 'img_url': 'https://cdn.akamai.steamstatic.com/steam/apps/379430/capsule_sm_120.jpg?t=1676294999',
+ 'original_price': 'COL$ 39.500',
+ 'platforms': ['Windows'],
+ 'release_date': '13 Feb, 2018',
+ 'reviews_summary': 'Very Positive - 82% of the 78,174 user reviews for this '
+                    'game are positive.'}
+2023-03-04 21:39:49 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers>
+{'game_name': 'Microsoft Flight Simulator 40th Anniversary Edition',
+ 'game_url': 'https://store.steampowered.com/app/1250410/Microsoft_Flight_Simulator_40th_Anniversary_Edition/?snr=1_7_7_7000_150_2',
+ 'img_url': 'https://cdn.akamai.steamstatic.com/steam/apps/1250410/capsule_sm_120.jpg?t=1668186331',
+ 'original_price': 'COL$ 249.900',
+ 'platforms': ['Windows', 'VR Supported'],
+ 'release_date': '18 Aug, 2020',
+ 'reviews_summary': 'Mostly Positive - 78% of the 43,197 user reviews for this '
+                    'game are positive.'}
+2023-03-04 21:39:49 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers>
+{'game_name': 'WILD HEARTS™',
+ 'game_url': 'https://store.steampowered.com/app/1938010/WILD_HEARTS/?snr=1_7_7_7000_150_2',
+ 'img_url': 'https://cdn.akamai.steamstatic.com/steam/apps/1938010/capsule_sm_120.jpg?t=1677069400',
+ 'original_price': 'COL$ 279.999',
+ 'platforms': ['Windows'],
+ 'release_date': '16 Feb, 2023',
+ 'reviews_summary': 'Mixed - 47% of the 6,482 user reviews for this game are '
+                    'positive.'}
+2023-03-04 21:39:49 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers>
+{'game_name': 'Cities: Skylines',
+ 'game_url': 'https://store.steampowered.com/app/255710/Cities_Skylines/?snr=1_7_7_7000_150_2',
+ 'img_url': 'https://cdn.akamai.steamstatic.com/steam/apps/255710/capsule_sm_120.jpg?t=1670837127',
+ 'original_price': 'COL$ 73.500',
+ 'platforms': ['Windows', 'Mac OS', 'Linux'],
+ 'release_date': '10 Mar, 2015',
+ 'reviews_summary': 'Very Positive - 93% of the 165,711 user reviews for this '
+                    'game are positive.'}
+2023-03-04 21:39:49 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers>
+{'game_name': 'Wallpaper Engine',
+ 'game_url': 'https://store.steampowered.com/app/431960/Wallpaper_Engine/?snr=1_7_7_7000_150_2',
+ 'img_url': 'https://cdn.akamai.steamstatic.com/steam/apps/431960/capsule_sm_120.jpg?t=1665921297',
+ 'original_price': 'COL$ 9.900',
+ 'platforms': ['Windows'],
+ 'release_date': 'Nov 2018',
+ 'reviews_summary': 'Overwhelmingly Positive - 98% of the 577,980 user reviews '
+                    'for this software are positive.'}
+2023-03-04 21:39:49 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers>
+{'discount_rate': '75%',
+ 'discounted_price': 'COL$ 28.000',
+ 'game_name': 'Resident Evil 3',
+ 'game_url': 'https://store.steampowered.com/app/952060/Resident_Evil_3/?snr=1_7_7_7000_150_2',
+ 'img_url': 'https://cdn.akamai.steamstatic.com/steam/apps/952060/capsule_sm_120.jpg?t=1656993754',
+ 'original_price': 'COL$ 112.000',
+ 'platforms': ['Windows'],
+ 'release_date': '24 Jan, 2019',
+ 'reviews_summary': 'Mostly Positive - 79% of the 42,370 user reviews for this '
+                    'game are positive.'}
+2023-03-04 21:39:49 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers>
+{'game_name': 'Dead Space',
+ 'game_url': 'https://store.steampowered.com/app/1693980/Dead_Space/?snr=1_7_7_7000_150_2',
+ 'img_url': 'https://cdn.akamai.steamstatic.com/steam/apps/1693980/capsule_sm_120.jpg?t=1677545181',
+ 'original_price': 'COL$ 234.999',
+ 'platforms': ['Windows'],
+ 'release_date': '27 Jan, 2023',
+ 'reviews_summary': 'Very Positive - 92% of the 20,386 user reviews for this '
+                    'game are positive.'}
+2023-03-04 21:39:49 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers>
+{'game_name': 'Pizza Tower',
+ 'game_url': 'https://store.steampowered.com/app/2231450/Pizza_Tower/?snr=1_7_7_7000_150_2',
+ 'img_url': 'https://cdn.akamai.steamstatic.com/steam/apps/2231450/capsule_sm_120.jpg?t=1674756021',
+ 'original_price': 'COL$ 40.000',
+ 'platforms': ['Windows'],
+ 'release_date': '26 Jan, 2023',
+ 'reviews_summary': 'Overwhelmingly Positive - 99% of the 8,615 user reviews '
+                    'for this game are positive.'}
+2023-03-04 21:39:49 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers>
+{'discount_rate': '60%',
+ 'discounted_price': 'COL$ 17.960',
+ 'game_name': 'FOR HONOR™',
+ 'game_url': 'https://store.steampowered.com/app/304390/FOR_HONOR/?snr=1_7_7_7000_150_2',
+ 'img_url': 'https://cdn.akamai.steamstatic.com/steam/apps/304390/capsule_sm_120.jpg?t=1677670214',
+ 'original_price': 'COL$ 44.900',
+ 'platforms': ['Windows'],
+ 'release_date': '14 Feb, 2017',
+ 'reviews_summary': 'Mixed - 68% of the 76,420 user reviews for this game are '
+                    'positive.'}
+2023-03-04 21:39:49 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers>
+{'game_name': 'Forza Horizon 5',
+ 'game_url': 'https://store.steampowered.com/app/1551360/Forza_Horizon_5/?snr=1_7_7_7000_150_2',
+ 'img_url': 'https://cdn.akamai.steamstatic.com/steam/apps/1551360/capsule_sm_120.jpg?t=1677534139',
+ 'original_price': 'COL$ 214.900',
+ 'platforms': ['Windows'],
+ 'release_date': '8 Nov, 2021',
+ 'reviews_summary': 'Very Positive - 88% of the 99,314 user reviews for this '
+                    'game are positive.'}
+2023-03-04 21:39:49 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers>
+{'game_name': 'Team Fortress 2',
+ 'game_url': 'https://store.steampowered.com/app/440/Team_Fortress_2/?snr=1_7_7_7000_150_2',
+ 'img_url': 'https://cdn.akamai.steamstatic.com/steam/apps/440/capsule_sm_120.jpg?t=1665425286',
+ 'original_price': 'Free to Play',
+ 'platforms': ['Windows', 'Mac OS', 'Linux'],
+ 'release_date': '10 Oct, 2007',
+ 'reviews_summary': 'Very Positive - 93% of the 938,604 user reviews for this '
+                    'game are positive.'}
+2023-03-04 21:39:49 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers>
+{'game_name': 'Raft',
+ 'game_url': 'https://store.steampowered.com/app/648800/Raft/?snr=1_7_7_7000_150_2',
+ 'img_url': 'https://cdn.akamai.steamstatic.com/steam/apps/648800/capsule_sm_120.jpg?t=1655744208',
+ 'original_price': 'COL$ 40.000',
+ 'platforms': ['Windows'],
+ 'release_date': '20 Jun, 2022',
+ 'reviews_summary': 'Very Positive - 93% of the 220,355 user reviews for this '
+                    'game are positive.'}
+2023-03-04 21:39:49 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers>
+{'game_name': 'Sea of Thieves',
+ 'game_url': 'https://store.steampowered.com/app/1172620/Sea_of_Thieves/?snr=1_7_7_7000_150_2',
+ 'img_url': 'https://cdn.akamai.steamstatic.com/steam/apps/1172620/capsule_sm_120.jpg?t=1673489975',
+ 'original_price': 'COL$ 54.500',
+ 'platforms': ['Windows'],
+ 'release_date': '3 Jun, 2020',
+ 'reviews_summary': 'Very Positive - 90% of the 231,921 user reviews for this '
+                    'game are positive.'}
+2023-03-04 21:39:49 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers>
+{'game_name': 'VRChat',
+ 'game_url': 'https://store.steampowered.com/app/438100/VRChat/?snr=1_7_7_7000_150_2',
+ 'img_url': 'https://cdn.akamai.steamstatic.com/steam/apps/438100/capsule_sm_120.jpg?t=1662741577',
+ 'original_price': 'Free To Play',
+ 'platforms': ['Windows', 'VR Supported'],
+ 'release_date': '1 Feb, 2017',
+ 'reviews_summary': 'Mostly Positive - 71% of the 191,824 user reviews for '
+                    'this game are positive.'}
+2023-03-04 21:39:49 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers>
+{'discount_rate': '60%',
+ 'discounted_price': 'COL$ 21.360',
+ 'game_name': 'Resident Evil 7 Biohazard',
+ 'game_url': 'https://store.steampowered.com/app/418370/Resident_Evil_7_Biohazard/?snr=1_7_7_7000_150_2',
+ 'img_url': 'https://cdn.akamai.steamstatic.com/steam/apps/418370/capsule_sm_120.jpg?t=1674611574',
+ 'original_price': 'COL$ 53.400',
+ 'platforms': ['Windows'],
+ 'release_date': '24 Jan, 2017',
+ 'reviews_summary': 'Very Positive - 94% of the 45,457 user reviews for this '
+                    'game are positive.'}
+2023-03-04 21:39:49 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers>
+{'game_name': 'Call of Duty®: Black Ops III',
+ 'game_url': 'https://store.steampowered.com/app/311210/Call_of_Duty_Black_Ops_III/?snr=1_7_7_7000_150_2',
+ 'img_url': 'https://cdn.akamai.steamstatic.com/steam/apps/311210/capsule_sm_120.jpg?t=1646763462',
+ 'original_price': 'COL$ 219.900',
+ 'platforms': ['Windows', 'Mac OS'],
+ 'release_date': '6 Nov, 2015',
+ 'reviews_summary': 'Very Positive - 86% of the 92,606 user reviews for this '
+                    'game are positive.'}
+2023-03-04 21:39:49 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers>
+{'game_name': 'The Last of Us™ Part I',
+ 'game_url': 'https://store.steampowered.com/app/1888930/The_Last_of_Us_Part_I/?snr=1_7_7_7000_150_2',
+ 'img_url': 'https://cdn.akamai.steamstatic.com/steam/apps/1888930/capsule_sm_120.jpg?t=1676314660',
+ 'original_price': 'COL$ 194.000',
+ 'platforms': ['Windows'],
+ 'release_date': '28 Mar, 2023'}
+2023-03-04 21:39:49 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers>
+{'game_name': 'Stardew Valley',
+ 'game_url': 'https://store.steampowered.com/app/413150/Stardew_Valley/?snr=1_7_7_7000_150_2',
+ 'img_url': 'https://cdn.akamai.steamstatic.com/steam/apps/413150/capsule_sm_120.jpg?t=1666917466',
+ 'original_price': 'COL$ 32.000',
+ 'platforms': ['Windows', 'Mac OS', 'Linux'],
+ 'release_date': '26 Feb, 2016',
+ 'reviews_summary': 'Overwhelmingly Positive - 98% of the 461,961 user reviews '
+                    'for this game are positive.'}
+2023-03-04 21:39:49 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers>
+{'discount_rate': '67%',
+ 'discounted_price': 'COL$ 42.867',
+ 'game_name': 'Assassin’s Creed® IV Black Flag™',
+ 'game_url': 'https://store.steampowered.com/app/242050/Assassins_Creed_IV_Black_Flag/?snr=1_7_7_7000_150_2',
+ 'img_url': 'https://cdn.akamai.steamstatic.com/steam/apps/242050/capsule_sm_120.jpg?t=1670596397',
+ 'original_price': 'COL$ 129.900',
+ 'platforms': ['Windows'],
+ 'release_date': '19 Nov, 2013',
+ 'reviews_summary': 'Very Positive - 89% of the 50,041 user reviews for this '
+                    'game are positive.'}
+2023-03-04 21:39:49 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers>
+{'game_name': 'Fallout 76',
+ 'game_url': 'https://store.steampowered.com/app/1151340/Fallout_76/?snr=1_7_7_7000_150_2',
+ 'img_url': 'https://cdn.akamai.steamstatic.com/steam/apps/1151340/capsule_sm_120.jpg?t=1677608851',
+ 'original_price': 'COL$ 128.900',
+ 'platforms': ['Windows'],
+ 'release_date': '14 Apr, 2020',
+ 'reviews_summary': 'Mostly Positive - 75% of the 42,556 user reviews for this '
+                    'game are positive.'}
+2023-03-04 21:39:49 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers>
+{'game_name': 'Stellaris',
+ 'game_url': 'https://store.steampowered.com/app/281990/Stellaris/?snr=1_7_7_7000_150_2',
+ 'img_url': 'https://cdn.akamai.steamstatic.com/steam/apps/281990/capsule_sm_120.jpg?t=1677687209',
+ 'original_price': 'COL$ 86.000',
+ 'platforms': ['Windows', 'Mac OS', 'Linux'],
+ 'release_date': '9 May, 2016',
+ 'reviews_summary': 'Very Positive - 88% of the 101,448 user reviews for this '
+                    'game are positive.'}
+2023-03-04 21:39:49 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers>
+{'game_name': 'Ready or Not',
+ 'game_url': 'https://store.steampowered.com/app/1144200/Ready_or_Not/?snr=1_7_7_7000_150_2',
+ 'img_url': 'https://cdn.akamai.steamstatic.com/steam/apps/1144200/capsule_sm_120.jpg?t=1672853208',
+ 'original_price': 'COL$ 56.900',
+ 'platforms': ['Windows'],
+ 'release_date': '17 Dec, 2021',
+ 'reviews_summary': 'Very Positive - 92% of the 80,079 user reviews for this '
+                    'game are positive.'}
+2023-03-04 21:39:49 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers>
+{'game_name': 'Total War: WARHAMMER III',
+ 'game_url': 'https://store.steampowered.com/app/1142710/Total_War_WARHAMMER_III/?snr=1_7_7_7000_150_2',
+ 'img_url': 'https://cdn.akamai.steamstatic.com/steam/apps/1142710/capsule_sm_120.jpg?t=1677755777',
+ 'original_price': 'COL$ 159.950',
+ 'platforms': ['Windows', 'Mac OS', 'Linux'],
+ 'release_date': '17 Feb, 2022',
+ 'reviews_summary': 'Mostly Positive - 73% of the 46,429 user reviews for this '
+                    'game are positive.'}
+2023-03-04 21:39:49 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers>
+{'discount_rate': '75%',
+ 'discounted_price': 'COL$ 22.475',
+ 'game_name': "Assassin's Creed® Unity",
+ 'game_url': 'https://store.steampowered.com/app/289650/Assassins_Creed_Unity/?snr=1_7_7_7000_150_2',
+ 'img_url': 'https://cdn.akamai.steamstatic.com/steam/apps/289650/capsule_sm_120.jpg?t=1602601508',
+ 'original_price': 'COL$ 89.900',
+ 'platforms': ['Windows'],
+ 'release_date': '11 Nov, 2014',
+ 'reviews_summary': 'Mostly Positive - 76% of the 48,531 user reviews for this '
+                    'game are positive.'}
+2023-03-04 21:39:49 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers>
+{'discount_rate': '80%',
+ 'discounted_price': 'COL$ 17.980',
+ 'game_name': 'Far Cry® 4',
+ 'game_url': 'https://store.steampowered.com/app/298110/Far_Cry_4/?snr=1_7_7_7000_150_2',
+ 'img_url': 'https://cdn.akamai.steamstatic.com/steam/apps/298110/capsule_sm_120.jpg?t=1602602982',
+ 'original_price': 'COL$ 89.900',
+ 'platforms': ['Windows'],
+ 'release_date': 'Nov 2014',
+ 'reviews_summary': 'Very Positive - 83% of the 40,899 user reviews for this '
+                    'game are positive.'}
+2023-03-04 21:39:49 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers>
+{'game_name': 'RimWorld',
+ 'game_url': 'https://store.steampowered.com/app/294100/RimWorld/?snr=1_7_7_7000_150_2',
+ 'img_url': 'https://cdn.akamai.steamstatic.com/steam/apps/294100/capsule_sm_120.jpg?t=1676391313',
+ 'original_price': 'COL$ 65.000',
+ 'platforms': ['Windows', 'Mac OS', 'Linux'],
+ 'release_date': '17 Oct, 2018',
+ 'reviews_summary': 'Overwhelmingly Positive - 98% of the 131,381 user reviews '
+                    'for this game are positive.'}
+2023-03-04 21:39:49 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers>
+{'discount_rate': '75%',
+ 'discounted_price': 'COL$ 18.750',
+ 'game_name': 'Kerbal Space Program',
+ 'game_url': 'https://store.steampowered.com/app/220200/Kerbal_Space_Program/?snr=1_7_7_7000_150_2',
+ 'img_url': 'https://cdn.akamai.steamstatic.com/steam/apps/220200/capsule_sm_120.jpg?t=1663603925',
+ 'original_price': 'COL$ 75.000',
+ 'platforms': ['Windows', 'Mac OS', 'Linux'],
+ 'release_date': '27 Apr, 2015',
+ 'reviews_summary': 'Very Positive - 94% of the 91,494 user reviews for this '
+                    'game are positive.'}
+2023-03-04 21:39:49 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers>
+{'discount_rate': '67%',
+ 'discounted_price': 'COL$ 13.365',
+ 'game_name': 'Destiny 2: Beyond Light',
+ 'game_url': 'https://store.steampowered.com/app/1314563/Destiny_2_Beyond_Light/?snr=1_7_7_7000_150_2',
+ 'img_url': 'https://cdn.akamai.steamstatic.com/steam/apps/1314563/capsule_sm_120.jpg?t=1661876599',
+ 'original_price': 'COL$ 40.500',
+ 'platforms': ['Windows'],
+ 'release_date': '10 Nov, 2020',
+ 'reviews_summary': 'Mixed - 50% of the 4,138 user reviews for this game are '
+                    'positive.'}
+2023-03-04 21:39:49 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers>
+{'discount_rate': '65%',
+ 'discounted_price': 'COL$ 16.625',
+ 'game_name': 'Graveyard Keeper',
+ 'game_url': 'https://store.steampowered.com/app/599140/Graveyard_Keeper/?snr=1_7_7_7000_150_2',
+ 'img_url': 'https://cdn.akamai.steamstatic.com/steam/apps/599140/capsule_sm_120.jpg?t=1667233324',
+ 'original_price': 'COL$ 47.500',
+ 'platforms': ['Windows', 'Mac OS', 'Linux'],
+ 'release_date': '15 Aug, 2018',
+ 'reviews_summary': 'Very Positive - 86% of the 24,545 user reviews for this '
+                    'game are positive.'}
+2023-03-04 21:39:49 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers>
+{'game_name': 'Football Manager 2023',
+ 'game_url': 'https://store.steampowered.com/app/1904540/Football_Manager_2023/?snr=1_7_7_7000_150_2',
+ 'img_url': 'https://cdn.akamai.steamstatic.com/steam/apps/1904540/capsule_sm_120.jpg?t=1677520647',
+ 'original_price': 'COL$ 179.000',
+ 'platforms': ['Windows', 'Mac OS'],
+ 'release_date': '7 Nov, 2022',
+ 'reviews_summary': 'Very Positive - 86% of the 6,950 user reviews for this '
+                    'game are positive.'}
+2023-03-04 21:39:49 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers>
+{'game_name': 'Call of Duty®: Modern Warfare® II - Urban Veteran: Pro Pack',
+ 'game_url': 'https://store.steampowered.com/app/2137910/Call_of_Duty_Modern_Warfare_II__Urban_Veteran_Pro_Pack/?snr=1_7_7_7000_150_2',
+ 'img_url': 'https://cdn.akamai.steamstatic.com/steam/apps/2137910/capsule_sm_120.jpg?t=1677175233',
+ 'original_price': 'COL$ 75.000',
+ 'platforms': ['Windows'],
+ 'release_date': '23 Feb, 2023',
+ 'reviews_summary': 'Mixed - 47% of the 184 user reviews for this game are '
+                    'positive.'}
+2023-03-04 21:39:49 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers>
+{'game_name': 'BeamNG.drive',
+ 'game_url': 'https://store.steampowered.com/app/284160/BeamNGdrive/?snr=1_7_7_7000_150_2',
+ 'img_url': 'https://cdn.akamai.steamstatic.com/steam/apps/284160/capsule_sm_120.jpg?t=1670937192',
+ 'original_price': 'COL$ 33.500',
+ 'platforms': ['Windows'],
+ 'release_date': '29 May, 2015',
+ 'reviews_summary': 'Overwhelmingly Positive - 97% of the 150,308 user reviews '
+                    'for this game are positive.'}
+2023-03-04 21:39:49 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers>
+{'game_name': 'Valheim',
+ 'game_url': 'https://store.steampowered.com/app/892970/Valheim/?snr=1_7_7_7000_150_2',
+ 'img_url': 'https://cdn.akamai.steamstatic.com/steam/apps/892970/capsule_sm_120.jpg?t=1676365340',
+ 'original_price': 'COL$ 31.000',
+ 'platforms': ['Windows', 'Linux'],
+ 'release_date': '2 Feb, 2021',
+ 'reviews_summary': 'Overwhelmingly Positive - 95% of the 338,784 user reviews '
+                    'for this game are positive.'}
+2023-03-04 21:39:49 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers>
+{'discount_rate': '60%',
+ 'discounted_price': 'COL$ 13.400',
+ 'game_name': 'Destiny 2: Bungie 30th Anniversary Pack',
+ 'game_url': 'https://store.steampowered.com/app/1656370/Destiny_2_Bungie_30th_Anniversary_Pack/?snr=1_7_7_7000_150_2',
+ 'img_url': 'https://cdn.akamai.steamstatic.com/steam/apps/1656370/capsule_sm_120.jpg?t=1654039643',
+ 'original_price': 'COL$ 33.500',
+ 'platforms': ['Windows'],
+ 'release_date': '7 Dec, 2021',
+ 'reviews_summary': 'Mixed - 52% of the 1,260 user reviews for this game are '
+                    'positive.'}
+2023-03-04 21:39:49 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers>
+{'game_name': 'ARK: Survival Evolved',
+ 'game_url': 'https://store.steampowered.com/app/346110/ARK_Survival_Evolved/?snr=1_7_7_7000_150_2',
+ 'img_url': 'https://cdn.akamai.steamstatic.com/steam/apps/346110/capsule_sm_120.jpg?t=1669254188',
+ 'original_price': 'COL$ 31.000',
+ 'platforms': ['Windows', 'Mac OS'],
+ 'release_date': '27 Aug, 2017',
+ 'reviews_summary': 'Very Positive - 83% of the 467,689 user reviews for this '
+                    'game are positive.'}
+2023-03-04 21:39:49 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers>
+{'discount_rate': '75%',
+ 'discounted_price': 'COL$ 28.000',
+ 'game_name': 'Resident Evil 2',
+ 'game_url': 'https://store.steampowered.com/app/883710/Resident_Evil_2/?snr=1_7_7_7000_150_2',
+ 'img_url': 'https://cdn.akamai.steamstatic.com/steam/apps/883710/capsule_sm_120.jpg?t=1671156517',
+ 'original_price': 'COL$ 112.000',
+ 'platforms': ['Windows'],
+ 'release_date': '24 Jan, 2019',
+ 'reviews_summary': 'Overwhelmingly Positive - 97% of the 81,655 user reviews '
+                    'for this game are positive.'}
+2023-03-04 21:39:49 [scrapy] INFO: Closing spider (closespider_itemcount)
+2023-03-04 21:39:49 [scrapy] INFO: Dumping Scrapy stats:
+{'downloader/request_bytes': 487,
+ 'downloader/request_count': 2,
+ 'downloader/request_method_count/GET': 2,
+ 'downloader/response_bytes': 736259,
+ 'downloader/response_count': 2,
+ 'downloader/response_status_count/200': 2,
+ 'elapsed_time_seconds': 12.023023,
+ 'finish_reason': 'closespider_itemcount',
+ 'finish_time': datetime.datetime(2023, 3, 5, 2, 39, 49, 371400),
+ 'item_scraped_count': 100,
+ 'log_count/DEBUG': 380,
+ 'log_count/INFO': 11,
+ 'memusage/max': 66068480,
+ 'memusage/startup': 66068480,
+ 'playwright/context_count': 1,
+ 'playwright/context_count/max_concurrent': 1,
+ 'playwright/context_count/non-persistent': 1,
+ 'playwright/page_count': 1,
+ 'playwright/page_count/max_concurrent': 1,
+ 'playwright/request_count': 151,
+ 'playwright/request_count/method/GET': 151,
+ 'playwright/request_count/navigation': 1,
+ 'playwright/request_count/resource_type/document': 1,
+ 'playwright/request_count/resource_type/font': 6,
+ 'playwright/request_count/resource_type/image': 123,
+ 'playwright/request_count/resource_type/script': 12,
+ 'playwright/request_count/resource_type/stylesheet': 7,
+ 'playwright/request_count/resource_type/xhr': 2,
+ 'playwright/response_count': 139,
+ 'playwright/response_count/method/GET': 139,
+ 'playwright/response_count/resource_type/document': 1,
+ 'playwright/response_count/resource_type/font': 6,
+ 'playwright/response_count/resource_type/image': 111,
+ 'playwright/response_count/resource_type/script': 12,
+ 'playwright/response_count/resource_type/stylesheet': 7,
+ 'playwright/response_count/resource_type/xhr': 2,
+ 'response_received_count': 2,
+ 'robotstxt/request_count': 1,
+ 'robotstxt/response_count': 1,
+ 'robotstxt/response_status_count/200': 1,
+ 'scheduler/dequeued': 1,
+ 'scheduler/dequeued/memory': 1,
+ 'scheduler/enqueued': 1,
+ 'scheduler/enqueued/memory': 1,
+ 'start_time': datetime.datetime(2023, 3, 5, 2, 39, 37, 348377)}
+2023-03-04 21:39:49 [scrapy] INFO: Spider closed (closespider_itemcount)
